@@ -31,8 +31,8 @@ echo '<div class="col-md-12">';
 foreach($data['Songs']  as $song){
   echo '<div class="col-md-4">'.
   '<a href="#" class="btn btn-sm btn-defult">'.
-  '<strong>'.$song['ArtistName'].'</strong> - '.$song['image'].' <small> on <strong>'.$song['AlbumName'].
-  '</a>'
+  '<strong>'.$song['ArtistName'].'</strong> - '.$song['image'].
+  ' <small> on <strong>'.$song['AlbumName'].'</small></a>'
   .'</div>';
 }
 echo '</div>';
