@@ -16,7 +16,7 @@
 	<span class="pull-left">Song list with extra details</span>
         <span class="pull-right">
 	<a href="https://twitter.com/htayyar" class="btn btn-sm btn-info">@htayyar</a> 
-        <a href="https://github.com/hasantayyar/groove-favs" class="btn btn-sm btn-info">Fork at Github</a>
+        <a href="https://github.com/hasantayyar/grooshark-favorites" class="btn btn-sm btn-info">Fork at Github</a>
         </span> 
 </p>
     </div>
