@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -27,12 +25,12 @@
 <?php
 $data = json_decode(file_get_contents(__DIR__.'/data.json'),1);
 
-echo '<div class="col-md-12">';
+echo '<div class="col-md-12 list-group">';
 foreach($data['Songs']  as $song){
-  echo '<div class="col-md-4">'.
-  '<a href="#" class="btn btn-sm btn-defult">'.
-  '<strong>'.$song['ArtistName'].'</strong> - '.$song['image'].
-  ' <small> on <strong>'.$song['AlbumName'].'</small></a>'
+  echo '<div class="col-md-12 list-group-item">'.
+  '<span href="#" class="">'.
+  '<strong class="artist label label-success">'.$song['ArtistName'].'</strong> - <span class="song label label-warning">'.$song['Name'].'</span>'.
+  ' / <span class="label label-default album" title="Album"> '.$song['AlbumName'].'</span></span>'
   .'</div>';
 }
 echo '</div>';
