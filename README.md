@@ -1,4 +1,5 @@
 This is a huge link of my favorite songs on grooveshark. This list is used for my own needs. But you may discover some new songs.
+There is too many types of genres in this list, so I didn't group them by genres. 
 
 + **Cat Stevens** - Foreigner Suite (excerpt) / [The Very Best of Cat Stevens](http://grooveshark.com/#!/album/a/256011)
 + **Tom Waits** - I Hope That I Don't Fall in Love With You / [Closing Time](http://grooveshark.com/#!/album/a/118290)
