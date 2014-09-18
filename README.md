@@ -1,644 +1,659 @@
-- **Cat Stevens** - Foreigner Suite (excerpt) / Album :  The Very Best of Cat Stevens
-- **Tom Waits** - I Hope That I Don't Fall in Love With You / Album :  Closing Time
-- **Ilkay Akkaya featuring Kazim Koyuncu** - Nana / Album :  Homegrown İstanbul Volume 1
-- **Kazım Koyuncu** - Ruyada / Album :  Gulbeyaz Soundtrack
-- **Tom Waits** - All the World Is Green / Album :  Blood Money
-- **Kalmah** - Time Takes Us All / Album :  The Black Waltz
-- **Kara Güneş** - Diloy / Album :  Yeniden
-- **Cem Karaca** - Emrah (Apa?lar) / Album :  Cemaz-Ül-Evvel
-- **Nico Stai** - One October Song / Album :  Park Los Angeles
-- **Sun Kil Moon** - Lost Verses / Album :  April
-- **Steve Shehan & Baly Othmani** - Kel Akalin / Album :  Desert Blues: Ambiances Du Sahara [Disc 2]
-- **ZZ Top** - Blue Jean Blues / Album :  Rancho Texicano The Best Of
-- **Feryal Oney** - Hardasan / Album :  Hardasan
-- **Guns N' Roses** - Medley / Album :  Unplugged
-- **Yeni Türkü** - Mamak Türküsü / Album :  Buğdayın Türküsü
-- **Opeth** - Soldier of Fortune / Album :  Ghost Reveries
-- **Creedence Clearwater Revival** - Who'll Stop the Rain / Album :  At the Movies
-- **Rainbow** - The Temple of the King / Album :  Ritchie Blackmore's Rainbow
-- **Bob Dylan** - One More Cup of Coffee (Valley Below) / Album :  Desire
-- **The Rolling Stones** - Angie / Album :  Jump Back: The Best of the Rolling Stones
-- **Metallica** - The Unforgiven / Album :  Metal Up Your Ass
-- **Deep Purple** - Lalena / Album :  The Best of Deep Purple
-- **Isabel Parra** - Póngale el hombro, m'hijito / Album :  De aquí y de allá
-- **Nazareth** - Where Are You Now / Album :  Rock Ballads
-- **Nazareth** - Dream On / Album :  Rock Ballads
-- **John Lee Hooker** - Tupelo / Album :  Chill Out
-- **Beirut** - The Gulag Orkestar / Album :  [2006] Gulag Orkestar
-- **Siya Siyabend** - Neden Bilmem / Album :  Demo
-- **Siya Siyabend** - Arar Dururum / Album :  Bu Son Olmasın
-- **bandista** - selam size / Album :  daima!
-- **Tom Waits** - All the World Is Green / Album :  Blood Money
-- **Erkan Oğur & Okan Murat Öztürk** - 01 - Tutam yar elinden.mp3 / Album :  Hiç
-- **Kayhan Kalhor** - Between The Heavens And Me / Album :  I Will Not Stand Alone
-- **Kayhan Kalhor** - Where Are You? / Album :  I Will Not Stand Alone
-- **Kayhan Kalhor** - I Will Not Stand Alone / Album :  I Will Not Stand Alone
-- **Kayhan Kalhor** - Parvaz / Album :  Silent City
-- **Kayhan Kalhor** - Beloved, do not let me be discouraged / Album :  Silent City
-- **Kayhan Kalhor** - Silent City / Album :  Silent City
-- **Kayhan Kalhor** - Ascending Bird / Album :  Silent City
-- **Kayhan Kalhor** - 3. The laziest summer afternoon, 4. Dancing under the walnut tree, 5. Hear me cry, 6. Pluck a star from the sky, 7. Here I am alone gain / Album :  I Will Not Stand Alone
-- **Kayhan Kalhor** - The Return / Album :  BBC Radio 3 Awards for World Music (1 of 2) (2003)
-- **Kayhan Kalhor** - The Return / Album :  BBC Awards
-- **Deep Purple** - Lalena / Album :  The Best of Deep Purple
-- **Bonnie Tyler** - It's a Hearthache / Album :  Love & Romance
-- **Tom Waits** - Dead and Lovely / Album :  Real Gone
-- **Tom Waits** - Sins of My Father / Album :  Real Gone
-- **Ahmet Aslan** - Gulbang / Album :  AHMET ASLAN - VA U VAXT - RÜZGAR VE ZAMAN
-- **Dokken** - I Will Remember / Album :  One Live Night
-- **Cradle of Filth** - Bathory Aria: Benighted Like Usher / A Murder of Ravens in Fugue / Eyes That Witnessed Madness / Album :  Cruelty and the Beast
-- **Dark Tranquility** - Lethe / Album :  The Gallery
-- **Eloy** - Sunset / Album :  Colours
-- **Ensiferum** - Stone Cold Metal / Album :  From Afar
-- **Tayfun Erdem** - Hayali Bir Prens İçin Balad / Album :  Cafe İstanbul
-- **Tayfun Erdem** - Hasret trilojisi / Album :  2-Hasret Trilojisi(Sofra-Memet-Vapor)  
-- **Tayfun Erdem** - Track 3 / Album :  Unknown Album (10.01.2005 22:24:09)
-- **Tayfun Erdem** - UVERTUR / Album :  AGRI DAGI EFSANESI
-- **Tayfun Erdem** - Track 2 / Album :  Unknown Album (10.01.2005 22:24:09)
-- **Mehmet Erdem** - Ben Ölmeden Önce / Album :  Joytürk Akustik
-- **Büyük Ev Ablukada** - Olanla Olunmaz / Album :  Full Faça
-- **Duman** - Eyvallah / Album :  Darmaduman
-- **Duman** - Kolay Değildir / Album :  Darmaduman
-- **The Smiths** - Asleep / Album :  The Smiths
-- **Bulutsuzluk Özlemi** - Sözlerimi Geri Alamam / Album :  Bulutsuzluk Senfoni
-- **Kardes Turkuler** - Bingöl / Album :  Dogu
-- **Pilli Bebek** - Eylul Aksami / Album :  Olsun
-- **Beirut** - Postcards From Italy / Album :  Gulag Orkestar
-- **Boney M.** - Rasputin / Album :  Gold: 20 Super Hits
-- **CEM KARACA** - Omrum / Album :  NERDE KALMIŞTIK
-- **Yüzyüzeyken Konuşuruz** - Ateş Edecek Misin / Album :  Birkaç Yıl Sonra Utanılacak Şarkılar
-- **Halimden Konan Anlar** - Sıkıntı Var / Album :  2013
-- **Jehan Barbur** - Uyan / Album :  Uyan
-- **Brenna MacCrimmon** - Yagmur yagar tas ustune / Album :  Brenna MacCrimmon
-- **Halimden Konan Anlar** - Öyle Normal / Album :  Demolar
-- **Duman** - Yürekten / Album :  Seni Kendime Sakladım
-- **Yüzyüzeyken Konuşuruz** - Konuşulacak Şeyler / Album :  Evdekilere Selam
-- **Deep Purple** - Lalena / Album :  The Best of Deep Purple
-- **Zülfü Livaneli** - Urfa Semahý / Album :  
-- **Yavuz Çetin** - Köle / Album :  Satılık
-- **Yüzyüzeyken Konuşuruz** - Ölmemişiz / Album :  Evdekilere Selamlar
-- **Yaşar Kurt** - Dokuz Alti Yollari / Album :  Güneş Kokusu
-- **Ilhan Irem** - Konusamiyorum / Album :  
-- **Cenk Taner** - Buradan Uzaklara / Album :  Ýzin Vermedi Yalnýzlýk
-- **Iron Maiden** - Liar / Album :  Maiden Voyage
-- **Roy Clark** - Yesterday, When I Was Young / Album :  Original Artist Hit List
-- **Roy Clark** - Yesterday When I Was Young / Album :  The Very Best of Roy Clark
-- **Budapest Klezmer Band** - Bei mir bist du schejn 'original' yiddish version / Album :  Bei mir bist du schejn
-- **Budapest Klezmer Band** - Romania / Album :  Soundtrack / Swing
-- **Budapest Klezmer Band** - Romania / Album :  Soundtrack / Swing
-- **Kesmeşeker** - En Cok Seni / Album :  Insulin
-- **Cenk Taner** - Böyle Şeyler İşte / Album :  İzin Vermedi Yalnızlık
-- **Kesmeşeker** - Ne Zaman Gitti Tren / Album :  Kum
-- **Cenk Taner** - Buradan Uzaklara / Album :  Ýzin Vermedi Yalnýzlýk
-- **Mojave 3** - Sarah / Album :  Ask Me Tomorrow
-- **Ilhan Irem** - Konusamiyorum / Album :  
-- **Budapest Klezmer Band** - Bei mir bist du schejn 'original' yiddish version / Album :  Bei mir bist du schejn
-- **Goran Bregović** - This Is a Film (feat. Iggy Pop) / Album :  Arizona Dream
-- **Tom Waits** - Hold On / Album :  Mule Variations
-- **Iggy Pop** - I Want To Go To The Beach / Album :  Preliminaries
-- **Kara Güneş** - Cat / Album :  Evreni Dinle
-- **Mehmet Güreli & Ayşe Tütüncü & Tahsin Ünüvar & İlkin Deniz** - Burada Seninle Kalmak Ýstiyorum / Album :  Vapurlar
-- **Reshid Behbudov** - Kucelere Su Sepmishem / Album :  ?
-- **Reshid Behbudov** - Kucelere Su Sepmishem / Album :  ?
-- **Kesmeşeker** - Yağmur / Album :  Tut Beni Düşmeden
-- **Duman** - Gözleri Kanlı / Album :  Darmaduman
-- **Kesmeşeker** - Ne Zaman Gitti Tren / Album :  Kum
-- **Reshid Behbudov** - Kucelere Su Sepmishem / Album :  ?
-- **Kara Güneş** - Santurdmaj / Album :  Yeniden
-- **OST** - Dialogue - Queen of the crime council / Album :  Kill Bill: Vol I
-- **Malcolm McLaren** - About Her / Album :  Kill Bill: Vol. 2
-- **Samuel L. Jackson** - Pulp Fiction - Ezekiel 25-17 / Album :  Pulp Fiction Soundtrack
-- **Ennio Morricone** - Il Tramonto / Album :  Kill Bill: Vol. 2
-- **Kool & The Gang** - Jungle Boogie / Album :  Pulp Fiction
-- **Russian Red** - Cigarettes / Album :  I Love Your Glasses
-- **Nouvelle Vague** - In a Manner of Speaking / Album :  Nouvelle Vague
-- **Blondie** - Maria / Album :  No Exit
-- **Deep Purple** - When a Blind Man Cries / Album :  Live at Montreux 1996
-- **Iron Maiden** - When the Wild Wind Blows / Album :  The Final Frontier http://noxos.blogspot.com/
-- **Barış Manço** - Selahaddin Eyyubi'nin Yeğeni Aslan Yürekli Rişar'ın Kız Kardeşine Karşı / Album :  Estağfurullah...Ne Haddimize...
-- **Lynyrd Skynyrd** - Tuesday's Gone / Album :  Greatest Hits
-- **Metallica** - Tuesday's Gone / Album :  Garage Inc.
-- **Víctor Jara** - Manifiesto / Album :  Antologia
-- **Víctor Jara** - Manifiesto / Album :  Antologia
-- **Violeta Parra** - Gracias a la vida / Album :  Las últimas composiciones de Violeta Parra
-- **Peggy Lee** - Johnny Guitar / Album :  The Best Of The Decca Years
-- **Elvis Presley** - In the Ghetto / Album :  The Essential Elvis Presley
-- **Mungo Jerry** - In the Summertime / Album :  Greatest Hits
-- **Dokken** - I Will Remember / Album :  One Live Night
-- **Timur Selçuk** - timur selcuk - ihtiyarlar balladi / Album :  Timur Selçuk- Oda Orkestrası
-- **Timur Selçuk** - Ispanyol Meyhanesi / Album :  Ispanyol Meyhanesi
-- **Víctor Jara** - El cigarrito / Album :  1959 - 1969 CD01
-- **Birsen Tezer/Hüsnü Arkan** - Hoş Geldin / Album :  Solo
-- **Luis Bacalov** - Summertime Killer / Album :  Kill Bill: Vol. 2
-- **Rockin' Bones** - Domino - Roy Orbison / Album :  Rockin' Bones: 1950s Punk & Rockabilly (Disc 2)
-- **The Dust Brothers** - This Is Your Life (feat. Brad Pitt) / Album :  Fight Club
-- **Mazzy Star** - Flowers in December / Album :  Among My Swan
-- **Pilli Bebek** - Haram Geceler / Album :  Behzat Ç. Dizi Ve Film Müzikleri
-- **Soundtracks** - Maximus / Album :  Gladiator: More Music 
-- **Soundtracks** - Duduk Of The North / Album :  Gladiator: More Music 
-- **Soundtracks** - Now We Are Free (Juba's Mix) / Album :  Gladiator: More Music 
-- **Hans Zimmer** - Now We Are Free / Album :  Gladiator
-- **Movie Quotes - Gladiator** - Movie Quotes - Gladiator - Maximus Decimus Meridius Speech / Album :  Fudges  Music
-- **Pixies** - Where Is My Mind ? / Album :  Fight Club
-- ***Kazım Koyuncu & Grup Dinmeyen** - 005- Kavganın Ortasında / Album :  SİSLER BULVARI
-- **Teoman** - Uçurtmalar / Album :  İnsanlık Halleri
-- **Nancy Sinatra** - Bang Bang (My Baby Shot Me Down) / Album :  Kill Bill Vol 1
-- **Led Zeppelin** - Stairway to Heaven / Album :  [Led Zeppelin IV]
-- **Urge Overkill** - Girl, You'll Be a Woman Soon / Album :  Pulp Fiction (Soundtrack)
-- ***Kazım Koyuncu & Grup Dinmeyen** - 003- 
-Hatırlayışlar / Album :  SİSLER BULVARI
-- **Nina Simone** - Sinnerman / Album :  Thomas Crown Affair
-- **Nick Cave & The Bad Seeds** - Where The Wild Roses Grow / Album :  B-Sides & Rarities - Volume II
-- **Various Artists** - 18 With A Bullet / Album :  Lock Stock & Two Smoking Barrels
-- **Duman** - Yaðmurun Sabahýnda / Album :  Duman I
-- **The Smiths** - Asleep / Album :  The Smiths
-- **Tom Waits** - Danny Says / Album :  Orphans: Brawlers, Bawlers & Bastards
-- **Vashti Bunyan** - Train Song / Album :  Some Things Just Stick in Your Mind
-- **Joanna Newsom** - The Book of Right-on / Album :  The Milk-Eyed Mender
-- **Dana Fuchs** - Don't Let Me Down / Album :  Across The Universe Soundtrack
-- **Czeslaw Spiewa** - Wesoly Kapelusz / Album :  Debiut
-- **BRENNA MACCRIMMON** - Şemsiyemin Ucu Kare / Album :  Kulak Misafiri - events in small chambers
-- **DeVotchKa** - Undone / Album :  A Mad & Faithful Telling
-- **BRENNA MACCRIMMON** - Şemsiyemin Ucu Kare / Album :  Kulak Misafiri - events in small chambers
-- **Nino Rota** - The Godfather Waltz / Album :  The Godfather
-- **Billie Joe Armstrong and Norah Jones** - Oh So Many Years / Album :  Foreverly
-- **mazhar alanson** - benim hala umudum var / Album :  her sey cok guzel olacak sountrack
-- **Nick Cave** - Henry Lee / Album :  Murder Ballads
-- **Esin Engin** - Seven Ne Yapmaz / Album :  Paranoyak Omlet Arþivi
-- **Duman** - Senin Marþýn / Album :  Duman II
-- **yüzyüzeyken konuşuruz** - Konuşulacak Şeyler / Album :  none
-- **CEM KARACA** - Omrum / Album :  NERDE KALMIŞTIK
-- **Neşet Ertaş** - Karadir Bu Bahtim Kara / Album :  Unknown
-- **Chicago** - Hard to Say I'm Sorry / Album :  The Best Rock Ballads in the World... Ever (disc 2)
-- **Dana Fuchs** - Don't Let Me Down / Album :  Across The Universe Soundtrack
-- **Gustavo Santaolalla** - The Wings / Album :  Brokeback Mountain
-- **Lucie Silvas** - Nothing Else Matters / Album :  Nothing Else Matters
-- **Kesmeşeker** - Herşey Sermaye İçin Sevgilim / Album :  Doğdum Ben Memlekette
-- **Sonata Arctica** - Still Loving You / Album :  Takatalvi
-- **Bruce Springteen** - The River / Album :  The River
-- **Fugees** - No Woman, No Cry [Bob Marley & The Wailers] / Album :  Awesome Covers Vol. 9
-- **Yeni Türkü** - Yagmurun Elleri / Album :  Yeşilmişik
-- **Tonic** - If You Could Only See (Acoustic) / Album :  
-- **Captain Jack** - Heyo Captin Jack / Album :  Captain Jack
-- **Gevende** - Nem / Album :  Gevende
-- **Scorpions** - Wind Of Change / Album :  The Scorpions
-- **Guns N' Roses** - November Rain / Album :  Use Your Illusion I
-- **Guns N' Roses** - Knockin' on Heaven's Door / Album :  Use Your Illusion II
-- **Dire Straits** - Sultans of Swing / Album :  Sultans of Swing: The Very Best of Dire Straits
-- **Uriah Heep** - Lady In Black / Album :  100% Rock Classic (CD 3)
-- **UFO** - Doctor Doctor / Album :  Phenomenon
-- **Janice Joplin** - Piece Of My Heart / Album :  Flower Power
-- **Steve Vai** - For The Love Of God (Album Version) / Album :  The Infinite Steve Vai: An Anthology
-- **Epica** - Cry For The Moon / Album :  The Phantom Agony
-- **Yavuz Çetin** - Oyuncak Dünya / Album :  Satılık
-- **Dokken** - I Will Remember / Album :  One Live Night
-- **St. Germain** - Rhythm Factory / African Rhythm (A Touch Of Jazz Mix) / Album :  Saint Germain des prés café 7
-- **Birsen Tezer/Hüsnü Arkan** - Hoş Geldin / Album :  Solo
-- **Birsen Tezer** - Seher Vakti / Album :  Cihan
-- **Esra Dalfidan** - Sen Gelmez Oldun / Album :  Colors
-- **Erkan Oğur** - 04 - Goodbye Pork Pie Hot Blues - Charles Mingus.mp3 / Album :  Perdesiz Gitarda Arayışlar
-- **Fatih Erkoç & Kerem Görsev Trio** - What a Wonderful World / Album :  the Lady from Istanbul
-- **Göksel Baktagir - Ceyhun Çelikten - Baki Kemancý** - Utangaç / Album :  Hayal Gibi
-- **Issac Hayes** - The Look Of Love / Album :  Dead Presidents
-- **Carla Morrison** - Hasta la piel / Album :  Aprendiendo a aprender
-- **Ezginin Günlüğü** - Sen giderken / Album :  Sabah turkusu
-- **Various Artists - Frochot Music** - Wisky Soda - Bembeya Jazz National / Album :  African Roots
-- **Esra Dalfidan** - Sana Bele N'oldu Yar / Album :  Counter Point
-- **Esra Dalfidan** - Sana Bele N'oldu Yar / Album :  Counter Point
-- **Mehmet Güreli** - Kimse Bilmez / Album :  -
-- **Sam & Dave** - When Something Is Wrong With My Baby / Album :  Dead Presidents OST Vol. II
-- **Ezginin Günlüğü** - Seni Düsünmek Güzel Sey / Album :  Seni Dusunmek
-- **John Coltrane** - Blue Train / Album :  Blue Train
-- **Louis Armstrong** - What a Wonderful World / Album :  What a wonderful world
-- **Selen Gülün** - Coming Soon / Album :  Just About Jazz (Live)
-- **Yezda Urfa** - Boris and His 3 Verses, Includ / Album :  Boris
-- **Camel** - Lady Fantasy / Album :  The Paris Collection
-- **Kalmah** - Hollo / Album :  Seventh Swamphony
-- **Credence Clearwater Revival** - House of the Rising Sun / Album :  CCR Greatest Hits
-- **Jerry Garcia** - House of the Rising Sun / Album :  Knockin' on Heaven's Door
-- **Şirin Soysal** - Uyurgezer / Album :  Bir Şeyler Var
-- **Jerry Garcia** - House of the Rising Sun / Album :  Knockin' on Heaven's Door
-- **Crosby, Stills, Nash & Young** - Chicago / Album :  4 Way Street
-- **Şirin Soysal** - Kuralsız Kahraman / Album :  Bir Şeyler Var
-- **Unknown** - Es gisher lusnyak gisher / Album :  Unknown
-- **Αλκίνοος Ιωαννίδης** - Yperastiko / Album :  Apo Tin Agora Tou Kosmou Os Tin Neroponti
-- **Jerry Garcia** - House Of The Rising Sun / Album :  The Pizza Tapes
-- **Birsen Tezer** - Nefes / Album :  İki Cihan
-- **Pretenders** - I'll Stand By You / Album :  M1+ Top 1000
-- **Tanju Okan** - Koy koy / Album :  Best Of Tanju Okan
-- **bandista** - hiç kimsenin şarkısı / Album :  Sınırsız Ulussuz Sansürsüz
-- **Erkan Ogur** - Bir Suh Sitemkar / Album :  Anadolu Besik
-- **Kesmeşeker** - Ne Zaman Gitti Tren / Album :  Kum
-- **Jim Croce** - These Dreams / Album :  Photographs & Memories: His Greatest Hits
-- **Wishbone Ash** - Warrior / Album :  Argus
-- **Bob Seger & The Silver Bullet** - Turn The Page / Album :  500 Greatest Rock & Roll Songs
-- **Ara Dinkjian/Arto Tuncboyaciyan/Dogan, Aytac/Irmak, Ercan/Ismail Soyberk/Kbachbatrian/Mustafa Süder** - Herkes Kendi Gördügüne Dogru Der / Album :  Aile Muhabbeti
-- **Kardeş Türküler** - Zamanýn Bahçesinde / Album :  Çocuk Haklı
-- **Zeki Müren** - Sorma / Album :  Sorma
-- **Tanju Okan** - Hasret / Album :  Best Of Tanju Okan
-- **Tanju Okan** - İçkim Sigaram / Album :  Best Of
-- **Bülent Ortaçgil** - Benimle Oynarmisin / Album :  
-- **Crosby, Stills, Nash & Young** - Teach Your Children / Album :  So Far
-- **Rainbow** - Rainbow Eyes / Album :  The Best Of Rainbow
-- **Rainbow** - Catch The Rainbow / Album :  The Best Of Rainbow
-- **Carissa's Wierd** - Chelsea Hotel (Leonard Cohen Cover) / Album :  Scrap Book
-- **Ezginin Günlüğü** - Huma kuşu / Album :  Doğu türküleri
-- **Nirvana** - Something In The Way [MTV Unplugged] / Album :  MTV Unplugged in New York
-- **Camel** - Stationary Traveller / Album :  Stationary Traveller
-- **Camel** - Irish Air / Album :  Harbour of Tears
-- **Rick Wright** - Mediterranean C / Album :  Wet Dream
-- **Jim Croce** - Photographs and Memories / Album :  Photographs & Memories: His Greatest Hits
-- **Camel** - Irish Air / Album :  Harbour of Tears
-- **Camel** - Irish Air (instrumental reprise) / Album :  Harbour of Tears
-- **Camel** - Cóbh / Album :  Harbour of Tears
-- **Camel** - Under the Moon / Album :  Harbour of Tears
-- **Şirin Soysal** - Bir Gün Bir Gün / Album :  Bir Şeyler Var
-- **Şirin Soysal** - Yeni Ay / Album :  Bir Şeyler Var
-- **Camel** - End of the Line / Album :  Dust and Dreams
-- **Camel** - Pressure Points / Album :  Stationary Traveller
-- **Camel** - Stationary Traveller (Instrumental) / Album :  Stationary Traveller
-- **Camel** - Selva / Album :  The Single Factor
-- **Camel** - End Peace / Album :  The Single Factor
-- **Sonata Arctica** - Letter to Dana / Album :  Ecliptica
-- **Camel** - Selva / Album :  The Single Factor
-- **Camel** - Nude / Album :  Nude
-- **Camel** - Drafted / Album :  Nude
-- **Camel** - Ice / Album :  I Can See Your House From Here
-- **Mircan Kaya** - Osman'um / Album :  Kül
-- **emiliana torrini** - Jungle Drum / Album :  Me and Armini
-- **Nick Cave & The Bad Seeds** - The Kindness of Strangers / Album :  Murder Ballads
-- **Camel** - Lullabye / Album :  The Single Factor
-- **Noir Désir** - Le Vent Nous Portera / Album :  Des Visages Des Figures
-- **Zülfü Livaneli** - Kuslarin Vuruldugu Zaman / Album :  Gökyüzü Herkesindir
-- **Sonata Arctica** - Fade to Black / Album :  Takatalvi
-- **Amel Mathlouthi** - Kelmti horra / Album :  kelmti horra
-- **Tony Gatlif** - Naci en Alamo / Album :  Vengo
-- **bandista** - hiç kimsenin şarkısı / Album :  Sınırsız Ulussuz Sansürsüz
-- **bandista** - kim yerli kim göçmen / Album :  Sınırsız Ulussuz Sürgünsüz
-- **The White Stripes** - One More Cup of Coffee / Album :  The White Stripes
-- **Camel** - Song Within a Song / Album :  Moonmadness
-- **Camel** - Chord Change / Album :  Moonmadness
-- **Camel** - The Snow Goose / Album :  The Snow Goose
-- **Camel** - Sanctuary / Album :  The Snow Goose
-- **Camel** - Stationary Traveller (Instrumental) / Album :  Stationary Traveller
-- **Camel** - Rhayader Alone / Album :  The Snow Goose
-- **Camel** - 16-The Great Marsh.mp3 / Album :  The Snow Goose
-- **Camel** - Separation / Album :  Camel
-- **Siya Siyabend** - Saha Doğru / Album :  karışık
-- **Kara Güneş** - daglar var / Album :  Santur Kayitlari
-- **Zülfü Livaneli** - karli kayin ormani / Album :  Maria Faranduri - Livaneli Söylüyor
-- **Mikis Theodorakis** - Zorba's Dance / Album :  Zorba the Greek
-- **Beirut** - Siki, Siki Baba (Ko?ani Orkestar cover) / Album :  Black Session
-- **Gogol Bordello** - Sun Is on My Side / Album :  Trans-Continental Hustle
-- **Andrea Bocelli** - En Aranjuez con tu amor / Album :  Sentimento
-- **Rodrigo** - Aranjuez concerto for guitar, 2nd movement adagio / Album :  Les Génies De La Musique, Concertos En Émotion
-- **Los Mustang** - En Aranjuez Con Tu Amor / Album :  Los Singles (1964-1973) CD 1
-- **Andrea Bocelli/The London Symphony Orchestra** - En Aranjuez Con Ta Amor / Album :  Sentimento
-- **Santana** - En Aranjuez con Tu Amor / Album :  Brothers
-- **Zardanadam** - Hepsi Hepsi Hayat Nasýl Olsa [Akustik Performans] / Album :  www.dipses.net
-- **Clash** - Bank Robber / Album :  Rocknrolla
-- **Dark Tranquility** - Lethe / Album :  The Gallery
-- **Bulutsuzluk Özlemi** - Sözlerimi Geri Alamam / Album :  Bulutsuzluk Senfoni
-- **Birsen Tezer** - Balıkesir / Album :  Cihan
-- **Deep Purple** - Anthem / Album :  The Best of Deep Purple
-- **Eric Clapton** - Three O'Clock Blues / Album :  Riding With the King
-- **Fanfare Ciocărlia** - Manea Tiganilor / Album :  Baro Biao - World Wide Wedding
-- **Gordon Lightfoot** - Sundown / Album :  Complete Greatest Hits
-- **Sezen Aksu** - Denge / Album :  Adı Bende Saklı
-- **Nick Cave and the Bad Seeds** - We No Who U R / Album :  Push the Sky Away
-- **Santana** - Samba Pa Ti / Album :  Abraxas
-- **Grup Yorum** - Gelci Safaklar Tutussun / Album :  Gel ki Safaklar Tutussun
-- **bandista** - Hicbir Seyin Sarkisi / Album :  De Te Fabula Narratur
-- **Paula Darwish** - Daye Daye / Album :  Do what you love - Yüreðinin götürdüðü yere git
-- **Kroke** - Usual Happiness / Album :  Ten Pieces To Save The World
-- **500 Days Of Summer Original Soundtrack** - Simon And Garfunkel-Bookends / Album :  500 Days Of Summer
-- **Ludovico Einaudi** - Divenire / Album :  Divenire
-- **Deep Purple** - When A Blind Man Cries / Album :  Greatest Hits
-- **Kesmeşeker** - Tek Kişiyim Ben Hâlâ / Album :  Kum
-- **Johann Sebastian Bach** - Chaconne For Solo Violin / Album :  Best of Bach
-- **Cinderella** - Nobody's Fool / Album :  Once Upon A...
-- **Cinderella** - Gypsy Road / Album :  Live Greatest Hits
-- **The Fisher Family** - Joy Of My Heart / Album :  The Acoustic Folk Box (Disc 1)
-- **Yeni Türkü** - Olmasa Mektubun / Album :  Koleksiyon (Disc 3)
-- **Steve Ashley** - Once In A While / Album :  The Acoustic Folk Box (Disc 2)
-- **Grup Ekin** - seninle biz.mp3 / Album :  Kavgayı Seçtim
-- **Grup Ekin** - bize ölüm yok / Album :  Bize Ölüm Yok
-- **Zeki Müren** - Seni Sordum Yildizlara / Album :  Ayrildik Iste
-- **Jerry Garcia** - Knockin' on Heaven's Door / Album :  Garcia Plays Dylan
-- **Jerry Garcia** - Visions of Johanna / Album :  Garcia Plays Dylan
-- **Santana** - Luz Amor Y Vida / Album :  Santana Brothers
-- **Santana** - La Danza / Album :  Santana Brothers
-- **Santana** - Blues Latino / Album :  Santana Brothers
-- **Santana** - Contigo / Album :  Santana Brothers
-- **Santana** - I Love You Much Too Much / Album :  Zebop!
-- **Santana** - Brightest Star / Album :  Zebop!
-- **Santana** - Life Is a Lady / Holiday / Album :  Inner Secrets
-- **Santana** - The Facts of Love / Album :  Inner Secrets
-- **Santana** - Contigo / Album :  Santana Brothers
-- **Black Oak Arkansas** - Moonshine Sonata / Album :  High on the Hog
-- **Santana** - I Love You Much Too Much / Album :  Zebop!
-- **Creedence Clearwater Revival** - Bad Moon Rising / Album :  Bad Moon Rising: The Best of Creedence Clearwater Revival
-- **The Allman Brothers Band** - You Don’t Love Me / Album :  At Fillmore East
-- **38 Special** - Same Old Feeling / Album :  Flashback: The Best of .38 Special
-- **Stevie Ray Vaughan** - Scratch'n'Sniff unused lick / Album :  Interview/Lesson Disc from Guitar World
-- **Grup Ekin** - evin (sevda) / Album :  Bize Ölüm Yok
-- **Grup Ekin** - bize ölüm yok / Album :  Bize Ölüm Yok
-- **Grup Ekin** - nesini söyleyim.mp3 / Album :  Kavgayı Seçtim
-- **Against Me!** - Bastards Of Young / Album :  Singles, B-Sides, And Rarities
-- **Tom Waits** - Day After Tomorrow / Album :  Real Gone
-- **Tom Waits** - Misery Is the River of the World / Album :  Blood Money
-- **Tom Waits** - Coney Island Baby / Album :  Blood Money
-- **Krishna Das** - Govinda Hare / Album :  Pilgrim Heart
-- **Yoga Zone** - Tibet Part II (Mark Isham) / Album :  Yoga Zone - Music For Meditation
-- **Krishna Das** - Sita's Prayer/Hey Mata Durga / Album :  Door of Faith
-- **Jimi Hendrix** - Once I Had a Woman / Album :  Blues
-- **Santana** - Santana Jam / Album :  The San Mateo Sessions 1969
-- **Toz ve Toz** - pembe tank (akustik) / Album :  Toz ve Toz
-- **Toz ve Toz** - proj_01 / Album :  Toz ve Toz
-- **Ayşe Tütüncü** - Carla'nın Tangosu / Album :  Çeşitlemeler
-- **Ayşe Tütüncü** - Hasta Siempre / Album :  Çeşitlemeler
-- **Bob Dylan** - Not Dark Yet / Album :  Time Out of Mind
-- **The Avett Brothers** - Pretty Girl From Chile / Album :  Emotionalism
-- **Ayse Tütüncü Üclüsü** - Panayir / Album :  Panayir
-- **gemide (on board)** - soundtrack / Album :  gemide
-- **l.e.s.s.** - Ruh Hastası / Album :  
-- **Bülent Ortaçgil** - Suna Abla / Album :  Benimle Oynar mýsýn
-- **Sumru Agiryürüyen** - Gecesefasi / Album :  Issiz
-- **derya türkan** - Nihavend Semai / Album :  minstrel's era
-- **Paranoyak Omlet Arþivi** - El Cordobes / Album :  Paranoyak Omlet Arþivi
-- **L.e.s.s.** - Yalanlar / Album :  Bilinmeyen
-- **Janet & Jak Esim** - Yo Era Ninya De Kaza Alta / Album :  Judeo - Espanyol Ezgiler
-- **Janet & Jak Esim** - Durme Durme / Album :  Antik Bir Hüzün / Judeo-Espanol Sephardic Songs
-- **Yüzyüzeyken Konuşuruz** - Cenaze Evi / Album :  Evdekilere Selamlar
-- **kaan boşnak** - son şarkı / Album :  çabuk sanat
-- **Büyük Ev Ablukada** - Bir Hıçkırık Gibi / Album :  Full Faça
-- **My Morning Jacket** - It Makes No Difference / Album :  Endless Highway - The Music of The Band
-- **My Morning Jacket** - Come Back To You / Album :  Z
-- **My Morning Jacket** - Come Back To You / Album :  Z
-- **My Morning Jacket** - Tyrone / Album :  Ch. 2 Learning: Early Recordings
-- **Janet & Jak Esim** - Et share ratson / Album :  Antik Bir Hüzün
-- **Ciwan HACO** - Gula Zer / Album :  Cenga Gel
-- **Ciwan HACO** - Felestin / Album :  Cenga Gel
-- **ciwan haco** - Hey Dilbere / Album :  Girtîyên Azadîyê
-- **ciwan haco** - Zýnga / Album :  Girtîyên Azadîyê
-- **ciwan haco** - Girtiyen Azadiye / Album :  Girtîyên Azadîyê
-- **ciwan haco** - Birindarkýrýn Ðeribiye / Album :  Girtîyên Azadîyê
-- **Tayfun Erdem** - Track 3 / Album :  Unknown Album (10.01.2005 22:24:09)
-- **Carlos Santana** - Europa / Album :  Santana Greatest Hits
-- **Journey** - Faithfully - Journey / Album :  Journeys Greatest Hits
-- **Cem Karaca** - Durduramayacaklar Halkın Coşkun Akan Selini / Album :  1 Mayıs
-- **Beirut** - Siki Siki Baba / Album :  2006-10-20 - Great American Music Hall
-- **Iron Maiden** - The Number Of The Beast / Album :  Best Of The Beast
-- **Iron Maiden** - The Thin Line Between Love And Hate / Album :  Brave New World
-- **Carpenters** - Top of the World / Album :  40/40
-- **Marty Friedman** - Forbidden City / Album :  Greatest Hits
-- **Cat Stevens** - Father and Son / Album :  The Very Best of Cat Stevens
-- **Cat Stevens** - Whistlestar / Album :  Cat Stevens Box Set (Box Set)
-- **Cat Stevens** - Katmandu / Album :  Cat Stevens Box Set (Box Set)
-- **Cat Stevens** - Where Do The Children Play? / Album :  Cat Stevens Box Set (Box Set)
-- **Cat Stevens** - Oh Very Young / Album :  Cat Stevens Box Set (Box Set)
-- **Cat Stevens** - If You Want To Sing Out, Sing Out / Album :  Cat Stevens Box Set (Box Set)
-- **bandista** - inkarin sarkisi / Album :  daima!
-- **Mojave 3** - Love Songs on the Radio / Album :  Ask Me Tomorrow
-- **Creedence Clearwater Revival** - Long As I See The Light / Album :  Cosmo’s Factory
-- **Black Sabbath** - Solitude / Album :  Master of Reality
-- **Black Sabbath** - I Won't Cry for You / Album :  Forbidden
-- **Black Sabbath** - It's Alright / Album :  Technical Ecstasy
-- **The Animals** - Coloured Rain (feat. Andy Summers) / Album :  Absolute Animals 1964-1968
-- **Black Sabbath** - Solitude / Album :  Master of Reality
-- **Víctor Jara** - Manifiesto / Album :  Antologia
-- **Víctor Jara** - El Cigarrito / Album :  Antologia (CD1)
-- **Wintersun** - Land of Snow and Sorrow / Album :  Time I
-- **DragonForce** - A Flame for Freedom / Album :  Ultra Beatdown
-- **Simon & Garfunkel** - The Boxer / Album :  Bridge Over Troubled Water
-- **Omega** - Gyöngyhajú Lány / Album :  10000 Lépés
-- **Buyuk Ev Ablukada** - Katlime Ferman / Album :  bir eksiğiz
-- **Mazhar Alanson** - Sanatçının Öyküsü / Album :  Vak the Rock
-- **Gogol Bordello** - Through the Roof 'n' Underground / Album :  Multi Kontra Culti vs. Irony
-- **Gogol Bordello** - Start Wearing Purple / Album :  Gypsy Punks: Underdog World Strike
-- **DeVotchKa** - La Llorona / Album :  Little Miss Sunshine (Original Motion Picture Soundtrack)
-- **Ruhi Su** - Ele Geniş Olan Şu Yalan Dünya / Album :  Barabar
-- **DeVotchKa** - Charlotte Mittnacht (The Fabulous Destiny Of...) / Album :  How It Ends
-- **Theme** - Heidi-Theme / Album :  Original Soundtrack
-- **Theme** - Heidi-Theme / Album :  Original Soundtrack
-- **Buyuk Ev Ablukada** - Katlime Ferman / Album :  bir eksiğiz
-- **Black Sabbath** - Feels Good to Me (edit) / Album :  Feels Good to Me
-- **U.D.O.** - I Gave as Good AS I Get / Album :  Rev-Raptor
-- **U.D.O.** - I Gave as Good AS I Get / Album :  Rev-Raptor
-- **Bodo Wartke** - Lalelilolu / Album :  Noah war ein Archetyp - Zweite Fassung (Disc 1)
-- **Mojave 3** - When You're Drifting / Album :  Excuses for Travellers
-- **The Shirelles** - Will You Still Love Me Tomorrow / Album :  Greatest Hits
-- **Cem Karaca** - Kerem Gibi / Album :  Yayınlanmamış Kayıtlar
-- **Deep Purple** - Soldier of Fortune / Album :  Stormbringer
-- **Thin Lizzy** - Whiskey in the Jar / Album :  Dedication: The Very Best of Thin Lizzy
-- **Fairport Convention** - To Althea From Prison / Album :  Nine
-- **Crosby, Stills, Nash & Young** - Almost Cut My Hair / Album :  Déjà vu
-- **Crosby, Stills, Nash & Young** - Helplessly Hoping / Album :  So Far
-- **Crosby, Stills, Nash & Young** - The Lee Shore / Album :  4 Way Street
-- **Bob Dylan** - Sara / Album :  Desire
-- **Bob Dylan** - North Country Blues / Album :  The Times They Are A-Changin'
-- **Bob Dylan** - Freight Train Blues / Album :  Bob Dylan
-- **Bob Dylan** - Moonshine Blues / Album :  Gaslight Tapes
-- **Bob Dylan** - Just Like Tom Thumb's Blues / Album :  Yesterday
-- **Ezginin Gunlugu & Hakan Yilmaz** - Daglarda Kar Sesi Var / Album :  Dogu Turkuleri
-- **65daysofstatic** - Radio Protector / Album :  One Time for All Time
-- **Caspian** - ASA / Album :  The Four Trees
-- **The Twilight Sad** - Cold Days From The Birdhouse / Album :  Fourteen Autumns & Fifteen Winters
-- **A Silver Mt. Zion** - God Bless Our Dead Marines / Album :  Horses in the Sky
-- **Cult of Luna** - Ghost Trail / Album :  Eternal Kingdom
-- **1 Mile North** - In 1983 He Loved To Fly / Album :  後搖催淚彈
-- **Mercury Rev** - The Dark Is Rising / Album :  All Is Dream
-- **Toundra** - Cielo Negro (Black Sky) / Album :  (III)
-- **Hans Zimmer and Lisa Gerrard** - Duduk of the North / Album :  More Music From the Motion Picture Gladiator
-- **Djam Karet** - Feast of Ashes / Album :  Burning the Hard City
-- **Godspeed You! Black Emperor** - Sleep / Album :  Lift Yr. Skinny Fists Like Antennas to Heaven!
-- **Camel** - Ice / Album :  I Can See Your House From Here
-- **Mikis Theodorakis** - Vegetaciones / Album :  Mikis Theodorakis
-- **Maria Farandouri** - Tora Einai Arga / Album :  I Mnimi Tou Nerou
-- **Maria Farandouri** - The brave guy is sad (To palikari ehi kaimo) / Album :  Mikis Theodorakis 3CD CD2
-- **Maria Farandouri** - Phaedra / Album :  01
-- **John Mayall** - Crying / Album :  USA Union
-- **Tom Waits** - Alice / Album :  Alice
-- **Tom Waits** - Old Shoes (& Picture Postcards) / Album :  Closing Time
-- **Tom Waits** - Ol' '55 / Album :  Closing Time
-- **Credence Clearwater Revival** - Jambalaya / Album :  The Blue Ridge Rangers
-- **Mehmet Güreli & Ayşe Tütüncü & Tahsin Ünüvar & İlkin Deniz** - I Love You / Album :  Vapurlar
-- **Explosions In The Sky & David Wingo** - An Old Peasant Like Me / Album :  Prince Avalanche: An Original Motion Picture Soundtrack
-- **John Lee Hooker** - Tupelo Blues / Album :  That's My Story / The Folk Blues Of John Lee Hooker
-- **Tom Waits** - Poor Edward / Album :  Alice
-- **The Allman Brothers Band** - You Don’t Love Me / Album :  At Fillmore East
-- **Leonard Cohen** - Take This Waltz / Album :  I'm Your Man
-- **Carpenters** - Jambalaya (On the Bayou) / Album :  Gold: Greatest Hits
-- **Tom Waits & Crystal Gayle** - I Beg Your Pardon / Album :  
-- **Credence Clearwater Revival** - Jambalaya / Album :  The Blue Ridge Rangers
-- **Ruhi Su&Sumeyra** - Kirmizi Gul Demet Demet / Album :  Kadinlarimizin Yuzleri
-- **Ruhi Su&Sumeyra** - Daglar Nidem / Album :  Gulun Elinden
-- **Grup Ekin** - çerkes ezgisi enstrümantal.mp3 / Album :  Kavgayı Seçtim
-- **Grup Ekin** - ishakça / Album :  Bize Ölüm Yok
-- **A Hawk and a Hacksaw** - Lajtha Lassú / Album :  Cervantine
-- **A Hawk and a Hacksaw** - Lajtha Lassú / Album :  Cervantine
-- **Maria Farandouri** - Tora Einai Arga / Album :  I Mnimi Tou Nerou
-- **Thin Lizzy** - Whiskey in the Jar / Album :  Thin Lizzy: Greatest Hits
-- **Camel** - Under The Moon / Album :  Coming of Age
-- **Brenna MacCrimmon** - Semsiyemin / Album :  Rough Guide to Turkish Cafe
-- **DeVotchKa** - La Llorona / Album :  Little Miss Sunshine (Original Motion Picture Soundtrack)
-- **DeVotchKa** - La Llorona / Album :  Little Miss Sunshine (Original Motion Picture Soundtrack)
-- **Hazmat Modine** - 02 Child of a blind man / Album :  Cicada
-- **Hazmat Modine** - It Calls Me (from Bahamat) / Album :  Barbes Records Summer Sampler
-- **Hazmat Modine** - Everybody Loves You (with Huun-Huur-Tu) / Album :  Bahamut
-- **Black Ox Orkestar** - ze Flamen, Vayser Fayer / Album :  Ver tanzt?
-- **Black Ox Orkestar** - Bukharian / Album :  Nisht azoy
-- **Black Ox Orkestar** - Violin Duet / Album :  Nisht azoy
-- **A Hawk and a Hacksaw** - Zozobra / Album :  And The Hun Hangar Ensemble
-- **Traditional Jewish Music** - Dona Dona / Album :  Traditional Jewish Music
-- **MEDITERRANEA** - Durme / Album :  soñando alandalus
-- **Janet-Jak Esim** - Durme Durme Kerido ijiko / Album :  Janet-Jak Esim
-- **Janet & Jak Esim** - Durme Durme / Album :  Antik Bir Hüzün
-- **Fikret Kızılok** - Düsler / Album :  Cekirdek Sanat Evi
-- **Fikret Kizilok-Bülent Ortaçgil** - Düşler / Album :  Biz Sarkilarimizi
-- **Fikret Kızılok** - Güzel Ne Güzel Olmuşsun / Album :  Zaman Zaman
-- **Fikret Kızılok** - Yalan / Album :  Yana Yana
-- **Fikret Kızılok** - Haberin Var Mi / Album :  Fikret Kizilok
-- **Fikret Kızılok** - Gecenin Üçünde / Album :  Dünden Bu Güne
-- **Peter Kater/R. Carlos Nakai** - I Will Fight No More / Album :  How the West Was Lost
-- **Peter Kater/R. Carlos Nakai** - Flight Song / Album :  How the West Was Lost
-- **Peter Kater/R. Carlos Nakai** - All Souls Waltz / Album :  Honorable Sky
-- **The Rolling Stones** - You Can't Always Get What You Want / Album :  The Rolling Stone Magazines 500 Greatest Songs Of All Time
-- **Howlin' Wolf** - 219 -  - Spoonful / Album :  500 greatest songs
-- **Victor Jara** - La Bala / Album :  Memoria del Cantar Popular
-- **Victor Jara** - El Arado / Album :  Memoria del Cantar Popular
-- **Victor Jara** - El Arado / Album :  Memoria del Cantar Popular
-- **Victor Jara** - El Cigarrito / Album :  Memoria del Cantar Popular
-- **Los Fabulosos Cadillacs** - Siguiendo La Luna / Album :  Akustic-loko de fabulosos amigos
-- **sleepmakeswaves** - One Day You Will Teach Me to Let Go of My Fears / Album :  In Today Already Walks Tomorrow
-- **Matching Mole** - O Caroline / Album :  Matching Mole
-- **Matching Mole** - Signed Curtain / Album :  Matching Mole (2005 Rem Japan)
-- **Bob Dylan** - North Country Blues / Album :  The Times They Are A-Changin'
-- **Tom Waits** - How's It Gonna End / Album :  Real Gone
-- **A Silver Mt. Zion** - Built Then Burnt [Hurrah! Hurrah!] / Album :  Born Into Trouble as the Sparks Fly Upward
-- **Peter Kater/R. Carlos Nakai** - I Will Fight No More / Album :  How the West Was Lost
-- **Mercedes Sosa** - Canción para Carito / Album :  30 Años
-- **Cemil Koçgün** - Tembur (Heyder) / Album :  KIZILBAÞ
-- **Cemil Koçgün** - Gizemli dünyamda / Album :  Aþk-ý Pervaz
-- **To Destroy A City** - Metaphor / Album :  To Destroy a City
-- **Fernando Ubiergo** - El Tiempo En Las Bastillas / Album :  Musica Popular Chilena 2
-- **Los Miserables** - Pisagua / Album :  Rendirse Jamás!
-- **Franco Simone** - Paisaje / Album :  Sus Grandes Exitos (En Castell
-- **Fernando Ubiergo** - El Tiempo En Las Bastillas / Album :  Musica Popular Chilena 2
-- **Los Miserables** - En Todas Partes / Album :  Rendirse Jamás!
-- **Los Miserables** - De Rusia con amor / Album :  Rendirse Jamás!
-- **The Dreadnoughts** - West Country Man / Album :  Polka’s Not Dead
-- **Dengesiz Herifler** - Bir Şise Votka / Album :  Demo
-- **Heideroosjes** - We're All Fucked Up / Album :  Fast Forward
-- **Get Dead** - Welcome To Hell / Album :  Bad News
-- **NOFX** - Reeko / Album :  Punk in Drublic
-- **Los Miserables** - Decile Que Lo Quiero / Album :  Rendirse Jamás!
-- **Roberto Parra** - La Negra Ester / Album :  Los Tiempos De La Negra Ester (Jazz Guachaca)
-- **Cemil Koçgün** - Vardým dostun bahçasýna / Album :  Aþk-ý Pervaz
-- **Iron Maiden** - Ballad of Martha Kent / Album :  Maiden Voyage
-- **Camel** - Harbour of Tears / Album :  Coming of Age
-- **Camel** - Irish Air (reprise) / Album :  Coming of Age
-- **Camel** - Eyes of Ireland / Album :  Harbour of Tears
-- **Manuel Garcia** - Tanto creo en ti / Album :  Panico
-- **Mercedes Sosa** - Mon Amour / Album :  Gestos de amor
-- **Esther & Abi Ofarim** - Le vent et la jeunesse / Album :  2 in 3
-- **Esther & Abi Ofarim** - Donna-Donna / Album :  Ihre Grossen Erfolge
-- **Esther & Abi Ofarim** - Cinderella-Rockefella / Album :  Ihre Grossen Erfolge
-- **Esther & Abi Ofarim** - naama / Album :  Album
-- **Esther & Abi Ofarim** - Le Déserteur (Monsieur le Président) / Album :  Ihre Grossen Erfolge
-- **Esther & Abi Ofarim** - Frank Mills (Aus Hair) / Album :  Ihre Grossen Erfolge
-- **Esther & Abi Ofarim** - Morning of My Life / Album :  1968 Die Stars Die Hits Die Facts
-- **Esther & Abi Ofarim** - Freight Train / Album :  Ihre Grossen Erfolge
-- **Esther & Abi Ofarim** - One More Dance / Album :  Biky's Goud Van Oud (Deel 12)
-- **Esther & Abi Ofarim** - Dirty Old Town / Album :  Die Ofarim-Story
-- **Esther & Abi Ofarim** - Les Trois Cloches / Album :  Ihre Grossen Erfolge
-- **Esther & Abi Ofarim** - hachnisini tachat knafech / Album :  àñúø òåôøéí
-- **Esther & Abi Ofarim** - avi avi / Album :  unknown
-- **Esther & Abi Ofarim** - saeni imcha / Album :  festival hazemer
-- **Duman** - Gönül İster / Album :  Darmaduman
-- **Mikail Aslan** - Dilbera Dersime / Album :  Kilite Kou
-- **Portishead** - Glory Box / Album :  Dummy
-- **Unbekannter Interpret** - benim adim sirvan - berivan / Album :  Cesaret
-- **Iced Earth** - Melancholy (Holy Martyr) / Album :  Something Wicked This Way Comes
-- **Iced Earth** - I Died for You / Album :  The Dark Saga
-- **Shahram Nazeri** - Sheyda Shodam / Album :  Rumi (Molaviyeh)-Persian Classical Music
-- **Rasta Knast** - Dia E Noite, Noite E Dia / Album :  Agrotóxico / Marcas de Revolta
-- **The Everly Brothers** - All I Have to Do Is Dream / Album :  The Everly Brothers' Best
-- **Kayhan Kalhor** - 3. The laziest summer afternoon, 4. Dancing under the walnut tree, 5. Hear me cry, 6. Pluck a star from the sky, 7. Here I am alone gain / Album :  I Will Not Stand Alone
-- **Dödelhaie** - Hinterlist / Album :  DAILY-KA-TESSEN
-- **l.e.s.s.** - ina-i züd'un / Album :  fabrikasyon hatasý
-- **Kamkars Ensemble** - Sarrowfull And Restless Heart / Album :  Kurdish Music
-- **Kamkars Ensemble** - Naky Naky / Album :  Shouri Digar (Kordi I)
-- **Johnny Cash** - Ring Of Fire / Album :  Legends Of Country Music: Classic Hits Of The 50s, 60s & 70s
-- **Peggy Lee** - Johnny Guitar / Album :  Fallout: New Vegas
-- **50s** - ShaNaNa - Who Put the Bop in the Bop Bop Bop / Album :  Shared
-- **Shakila** - nedaye mardome Iran / Album :  mojdeh azadi
-- **Cat Stevens** - Sad Lisa / Album :  Tea for the Tillerman
-- **March To The Grave** - Tears and Pains of Billy Baines / Album :  The Band From Town Vol. 2
-- **March To The Grave** - Tears and Pains of Billy Baines / Album :  The Band From Town Vol. 2
-- **Shakila** - Morghe Sahar.mp3 / Album :  Collection
-- **Shakila** - Divaneh-Music.mp3 / Album :  Collection
-- **Kamkars Ensemble** - Kataneh / Album :  Gol Neshan
-- **Kamkars Ensemble** - Deli Men / Album :  Shouri Digar (Kordi I)
-- **Kalmah** - Seventh Swamphony / Album :  Seventh Swamphony
-- **Traditional Jewish Music** - Dona Dona / Album :  Traditional Jewish Music
-- **David Grisman With Andy Statman** - Shalom Aleichem (2) / Album :  Songs Of Our Fathers : Traditional Jewish Melodies
-- **David Grisman With Andy Statman** - For The Sake Of My Brothers And Friends / Album :  Songs Of Our Fathers : Traditional Jewish Melodies
-- **Yehoshua Rochman** - Nigun Simcha / Album :  Klezmer Violin, The
-- **David Grisman With Andy Statman** - Kazalski / Album :  Songs Of Our Fathers : Traditional Jewish Melodies
-- **Janet & Jak Esim** - Yo Era Ninya De Kaza Alta / Album :  Judeo - Espanyol Ezgiler
-- **VA - Traditional Jewish Music** - Tum - Balalaika / Album :  Geleneksel Yahudi Müzigi
-- **Bulent Ortacgil & Fikret Kizilok** - Düsler / Album :  Cekirdek Sanat Evi
-- **Bulent Ortacgil & Fikret Kizilok** - Gunesin Aynasinda / Album :  Pencere Onu Cicegi
-- **Duman** - Gönül / Album :  Orhan Gencebay ile Bir Ömür (CD 1)
-- **Léo Ferré** - Psaume 151 / Album :  Amour Anarchie
-- **Catherine Sauvage** - La piano du pauvre - Catherine Sauvage / Album :  1954
-- **High Highs** - Horses / Album :  High Highs
-- **Marianne Faithfull** - Just Call Me Angel in the Morn / Album :  
-- **Melanie Safka** - Mr. Tamborine Man / Album :  1968 - Born To Be
-- **Marianne Faithfull** - Ruby Tuesday / Album :  Unknown
-- **Melanie Safka** - Mr. Tamborine Man / Album :  1968 - Born To Be
-- **Melanie Safka** - I will survive / Album :  Desconocido
-- **In Flames** - The Quiet Place / Album :  Soundtrack to Your Escape
-- **googoosh** - Gharib Ashena / Album :  Kavir
-- **Jozef Van Wissem** - The Stars Fall From the Sky and the Heavens Are Rolled Up like a Scroll / Album :  It Is All That Is Made
-- **Buffy Sainte-Marie** - Qu'Appelle Valley, Saskatchewan / Album :  Sweet America
-- **Bokka** - Town Of Strangers / Album :  Bokka
-- **Ruhi Su** - Sisli Meydaninda Uc Kiz / Album :  Sabahin Sahibi Var
-- **Grup Yorum** - Sisli Meydaninda / Album :  Marslarimiz
-- **Home Grown** - Barbie Girl / Album :  EP Phone Home
-- **Bunu Sen İstedin** - Ah Sevgilim / Album :  Bunu Sen İstedin
-- **Bunu Sen İstedin** - Büyük Adam Olucam Ben / Album :  Bunu Sen İstedin
-- **Home Grown** - Surfer Girl / Album :  Act Your Age
-- **Allister** - Scratch / Album :  Last Stop Suburbia
-- **Armand Amar & Sandrine Piau** - Cum Dederit / Album :  Home (Original Motion Picture Soundtrack)
-- **Armand Amar** - Kalou / Album :  Le Concert
-- **Armand Amar** - Home, Pt. II / Album :  Home (Original Motion Picture Soundtrack)
-- **Armand Amar** - L' Oiseau - Sébastien Et Esther / Album :  Bande Originale Du Film Belle
-- **Armand Amar** - Ai Routchiok / Album :  Le Concert
-- **Armand Amar** - Home, Pt. IV / Album :  Home (Original Motion Picture Soundtrack)
-- **Armand Amar** - Poem of the Atoms / Album :  Bab' Azîz
-- **Levon Minassian & Armand Amar** - Amen hayr sourp / Album :  Songs From a World Apart
-- **Levon Minassian & Armand Amar** - Tchinares / Album :  Songs From a World Apart
-- **Levon Minassian & Armand Amar** - Ar intch lav er / Album :  Songs From a World Apart
-- **Two Gallants** - Las Cruces Jail / Album :  Las Cruces Jail
-- **Two Gallants** - Despite What You've Been Told / Album :  Two Gallants
-- **Levon Minassian & Armand Amar** - Nare nare / Album :  Songs From a World Apart
-- **Levon Minassian & Armand Amar** - Im ayrogh veuchtitz / Album :  Songs From a World Apart
-- **Armand Amar** - Concert concert / Album :  Le Concert
-- **Armand Amar** - Kalinka / Album :  Le Concert
-- **Armand Amar** - Tziganie / Album :  Le Concert
-- **Armand Amar** - Poem of the Atoms / Album :  Bab' Azîz
-- **Jocelyn Pook** - Honey Bee Story / Album :  
-- **Jocelyn Pook** - Libera Me / Album :  Habitación en Roma
-- **Lake of Tears** - Hold on Tight / Album :  Forever Autumn
-- **Armand Amar** - Chaosmos / Album :  Terre Vue Du Ciel
-- **Armand Amar** - Dream of the Palace / Album :  Bab' Azîz
-- **In Flames** - Rusted Nail / Album :  Siren Charms
-- **In Flames** - All for Me / Album :  Sounds of a Playground Fading
-- **Armand Amar** - Ouverture / Album :  Bande Originale Du Film Belle
-- **Sigur Ros** - Brennisteinn / Album :  Kveikur
-- **Sigur Ros** - Hrafntinna / Album :  Kveikur
-- **Sigur Ros** - Stormur / Album :  Kveikur
-- **Armand Amar** - Part XX / Album :  Marco Polo
-- **Hossein Alizadeh** - Vernal Reunion / Album :  Half Moon /Nimeye Mah/
+This is a huge link of my favorite songs on grooveshark. This list is used for my own needs. But you may discover some new songs.
+
++ **Cat Stevens** - Foreigner Suite (excerpt) / [The Very Best of Cat Stevens](http://grooveshark.com/#!/album/a/256011)
++ **Tom Waits** - I Hope That I Don't Fall in Love With You / [Closing Time](http://grooveshark.com/#!/album/a/118290)
++ **Ilkay Akkaya featuring Kazim Koyuncu** - Nana / [Homegrown İstanbul Volume 1](http://grooveshark.com/#!/album/a/3662906)
++ **Kazım Koyuncu** - Ruyada / [Gulbeyaz Soundtrack](http://grooveshark.com/#!/album/a/4664100)
++ **Tom Waits** - All the World Is Green / [Blood Money](http://grooveshark.com/#!/album/a/186196)
++ **Kalmah** - Time Takes Us All / [The Black Waltz](http://grooveshark.com/#!/album/a/153061)
++ **Kara Güneş** - Diloy / [Yeniden](http://grooveshark.com/#!/album/a/4256530)
++ **Cem Karaca** - Emrah (Apa?lar) / [Cemaz-Ül-Evvel](http://grooveshark.com/#!/album/a/853536)
++ **Nico Stai** - One October Song / [Park Los Angeles](http://grooveshark.com/#!/album/a/4475049)
++ **Sun Kil Moon** - Lost Verses / [April](http://grooveshark.com/#!/album/a/1114706)
++ **Steve Shehan & Baly Othmani** - Kel Akalin / [Desert Blues: Ambiances Du Sahara [Disc 2]](http://grooveshark.com/#!/album/a/940674)
++ **ZZ Top** - Blue Jean Blues / [Rancho Texicano The Best Of](http://grooveshark.com/#!/album/a/229972)
++ **Feryal Oney** - Hardasan / [Hardasan](http://grooveshark.com/#!/album/a/5990187)
++ **Guns N' Roses** - Medley / [Unplugged](http://grooveshark.com/#!/album/a/1143960)
++ **Yeni Türkü** - Mamak Türküsü / [Buğdayın Türküsü](http://grooveshark.com/#!/album/a/7053717)
++ **Opeth** - Soldier of Fortune / [Ghost Reveries](http://grooveshark.com/#!/album/a/129274)
++ **Creedence Clearwater Revival** - Who'll Stop the Rain / [At the Movies](http://grooveshark.com/#!/album/a/1811961)
++ **Rainbow** - The Temple of the King / [Ritchie Blackmore's Rainbow](http://grooveshark.com/#!/album/a/183207)
++ **Bob Dylan** - One More Cup of Coffee (Valley Below) / [Desire](http://grooveshark.com/#!/album/a/179459)
++ **The Rolling Stones** - Angie / [Jump Back: The Best of the Rolling Stones](http://grooveshark.com/#!/album/a/402959)
++ **Metallica** - The Unforgiven / [Metal Up Your Ass](http://grooveshark.com/#!/album/a/206188)
++ **Deep Purple** - Lalena / [The Best of Deep Purple](http://grooveshark.com/#!/album/a/250535)
++ **Isabel Parra** - Póngale el hombro, m'hijito / [De aquí y de allá](http://grooveshark.com/#!/album/a/4710388)
++ **Nazareth** - Where Are You Now / [Rock Ballads](http://grooveshark.com/#!/album/a/379245)
++ **Nazareth** - Dream On / [Rock Ballads](http://grooveshark.com/#!/album/a/379245)
++ **John Lee Hooker** - Tupelo / [Chill Out](http://grooveshark.com/#!/album/a/202844)
++ **Beirut** - The Gulag Orkestar / [[2006] Gulag Orkestar](http://grooveshark.com/#!/album/a/5824289)
++ **Siya Siyabend** - Neden Bilmem / [Demo](http://grooveshark.com/#!/album/a/4049700)
++ **Siya Siyabend** - Arar Dururum / [Bu Son Olmasın](http://grooveshark.com/#!/album/a/7327522)
++ **bandista** - selam size / [daima!](http://grooveshark.com/#!/album/a/6075474)
++ **Tom Waits** - All the World Is Green / [Blood Money](http://grooveshark.com/#!/album/a/186196)
++ **Erkan Oğur & Okan Murat Öztürk** - 01 - Tutam yar elinden.mp3 / [Hiç](http://grooveshark.com/#!/album/a/3685302)
++ **Kayhan Kalhor** - Between The Heavens And Me / [I Will Not Stand Alone](http://grooveshark.com/#!/album/a/7539370)
++ **Kayhan Kalhor** - Where Are You? / [I Will Not Stand Alone](http://grooveshark.com/#!/album/a/7539370)
++ **Kayhan Kalhor** - I Will Not Stand Alone / [I Will Not Stand Alone](http://grooveshark.com/#!/album/a/7539370)
++ **Kayhan Kalhor** - Parvaz / [Silent City](http://grooveshark.com/#!/album/a/3723647)
++ **Kayhan Kalhor** - Beloved, do not let me be discouraged / [Silent City](http://grooveshark.com/#!/album/a/3723647)
++ **Kayhan Kalhor** - Silent City / [Silent City](http://grooveshark.com/#!/album/a/3723647)
++ **Kayhan Kalhor** - Ascending Bird / [Silent City](http://grooveshark.com/#!/album/a/3723647)
++ **Kayhan Kalhor** - 3. The laziest summer afternoon, 4. Dancing under the walnut tree, 5. Hear me cry, 6. Pluck a star from the sky, 7. Here I am alone gain / [I Will Not Stand Alone](http://grooveshark.com/#!/album/a/7539370)
++ **Kayhan Kalhor** - The Return / [BBC Radio 3 Awards for World Music (1 of 2) (2003)](http://grooveshark.com/#!/album/a/4849080)
++ **Kayhan Kalhor** - The Return / [BBC Awards](http://grooveshark.com/#!/album/a/4988572)
++ **Deep Purple** - Lalena / [The Best of Deep Purple](http://grooveshark.com/#!/album/a/250535)
++ **Bonnie Tyler** - It's a Hearthache / [Love & Romance](http://grooveshark.com/#!/album/a/5760496)
++ **Tom Waits** - Dead and Lovely / [Real Gone](http://grooveshark.com/#!/album/a/134735)
++ **Tom Waits** - Sins of My Father / [Real Gone](http://grooveshark.com/#!/album/a/134735)
++ **Ahmet Aslan** - Gulbang / [AHMET ASLAN - VA U VAXT - RÜZGAR VE ZAMAN](http://grooveshark.com/#!/album/a/5382324)
++ **Dokken** - I Will Remember / [One Live Night](http://grooveshark.com/#!/album/a/685588)
++ **Cradle of Filth** - Bathory Aria: Benighted Like Usher / A Murder of Ravens in Fugue / Eyes That Witnessed Madness / [Cruelty and the Beast](http://grooveshark.com/#!/album/a/251381)
++ **Dark Tranquility** - Lethe / [The Gallery](http://grooveshark.com/#!/album/a/8245438)
++ **Eloy** - Sunset / [Colours](http://grooveshark.com/#!/album/a/2790594)
++ **Ensiferum** - Stone Cold Metal / [From Afar](http://grooveshark.com/#!/album/a/3893218)
++ **Tayfun Erdem** - Hayali Bir Prens İçin Balad / [Cafe İstanbul](http://grooveshark.com/#!/album/a/5782753)
++ **Tayfun Erdem** - Hasret trilojisi / [2-Hasret Trilojisi(Sofra-Memet-Vapor)  ](http://grooveshark.com/#!/album/a/7718594)
++ **Tayfun Erdem** - Track 3 / [Unknown Album (10.01.2005 22:24:09)](http://grooveshark.com/#!/album/a/3398229)
++ **Tayfun Erdem** - UVERTUR / [AGRI DAGI EFSANESI](http://grooveshark.com/#!/album/a/7718597)
++ **Tayfun Erdem** - Track 2 / [Unknown Album (10.01.2005 22:24:09)](http://grooveshark.com/#!/album/a/3398229)
++ **Mehmet Erdem** - Ben Ölmeden Önce / [Joytürk Akustik](http://grooveshark.com/#!/album/a/8773562)
++ **Büyük Ev Ablukada** - Olanla Olunmaz / [Full Faça](http://grooveshark.com/#!/album/a/8799926)
++ **Duman** - Eyvallah / [Darmaduman](http://grooveshark.com/#!/album/a/9241495)
++ **Duman** - Kolay Değildir / [Darmaduman](http://grooveshark.com/#!/album/a/9241495)
++ **The Smiths** - Asleep / [The Smiths](http://grooveshark.com/#!/album/a/184803)
++ **Bulutsuzluk Özlemi** - Sözlerimi Geri Alamam / [Bulutsuzluk Senfoni](http://grooveshark.com/#!/album/a/3991662)
++ **Kardes Turkuler** - Bingöl / [Dogu](http://grooveshark.com/#!/album/a/4480519)
++ **Pilli Bebek** - Eylul Aksami / [Olsun](http://grooveshark.com/#!/album/a/5243135)
++ **Beirut** - Postcards From Italy / [Gulag Orkestar](http://grooveshark.com/#!/album/a/136787)
++ **Boney M.** - Rasputin / [Gold: 20 Super Hits](http://grooveshark.com/#!/album/a/1772211)
++ **CEM KARACA** - Omrum / [NERDE KALMIŞTIK](http://grooveshark.com/#!/album/a/8138024)
++ **Yüzyüzeyken Konuşuruz** - Ateş Edecek Misin / [Birkaç Yıl Sonra Utanılacak Şarkılar](http://grooveshark.com/#!/album/a/8351505)
++ **Halimden Konan Anlar** - Sıkıntı Var / [2013](http://grooveshark.com/#!/album/a/9313551)
++ **Jehan Barbur** - Uyan / [Uyan](http://grooveshark.com/#!/album/a/3427859)
++ **Brenna MacCrimmon** - Yagmur yagar tas ustune / [Brenna MacCrimmon](http://grooveshark.com/#!/album/a/9143214)
++ **Halimden Konan Anlar** - Öyle Normal / [Demolar](http://grooveshark.com/#!/album/a/8865894)
++ **Duman** - Yürekten / [Seni Kendime Sakladım](http://grooveshark.com/#!/album/a/2033726)
++ **Yüzyüzeyken Konuşuruz** - Konuşulacak Şeyler / [Evdekilere Selam](http://grooveshark.com/#!/album/a/9288210)
++ **Deep Purple** - Lalena / [The Best of Deep Purple](http://grooveshark.com/#!/album/a/250535)
++ **Zülfü Livaneli** - Urfa Semahý / [](http://grooveshark.com/#!/album/a/3668206)
++ **Yavuz Çetin** - Köle / [Satılık](http://grooveshark.com/#!/album/a/3962108)
++ **Yüzyüzeyken Konuşuruz** - Ölmemişiz / [Evdekilere Selamlar](http://grooveshark.com/#!/album/a/9324839)
++ **Yaşar Kurt** - Dokuz Alti Yollari / [Güneş Kokusu](http://grooveshark.com/#!/album/a/7079817)
++ **Ilhan Irem** - Konusamiyorum / [](http://grooveshark.com/#!/album/a/1675781)
++ **Cenk Taner** - Buradan Uzaklara / [Ýzin Vermedi Yalnýzlýk](http://grooveshark.com/#!/album/a/8511386)
++ **Iron Maiden** - Liar / [Maiden Voyage](http://grooveshark.com/#!/album/a/5341186)
++ **Roy Clark** - Yesterday, When I Was Young / [Original Artist Hit List](http://grooveshark.com/#!/album/a/3222487)
++ **Roy Clark** - Yesterday When I Was Young / [The Very Best of Roy Clark](http://grooveshark.com/#!/album/a/4607482)
++ **Budapest Klezmer Band** - Bei mir bist du schejn 'original' yiddish version / [Bei mir bist du schejn](http://grooveshark.com/#!/album/a/4829960)
++ **Budapest Klezmer Band** - Romania / [Soundtrack / Swing](http://grooveshark.com/#!/album/a/4181744)
++ **Budapest Klezmer Band** - Romania / [Soundtrack / Swing](http://grooveshark.com/#!/album/a/4181744)
++ **Kesmeşeker** - En Cok Seni / [Insulin](http://grooveshark.com/#!/album/a/5673996)
++ **Cenk Taner** - Böyle Şeyler İşte / [İzin Vermedi Yalnızlık](http://grooveshark.com/#!/album/a/3624304)
++ **Kesmeşeker** - Ne Zaman Gitti Tren / [Kum](http://grooveshark.com/#!/album/a/5467722)
++ **Cenk Taner** - Buradan Uzaklara / [Ýzin Vermedi Yalnýzlýk](http://grooveshark.com/#!/album/a/8511386)
++ **Mojave 3** - Sarah / [Ask Me Tomorrow](http://grooveshark.com/#!/album/a/182455)
++ **Ilhan Irem** - Konusamiyorum / [](http://grooveshark.com/#!/album/a/1675781)
++ **Budapest Klezmer Band** - Bei mir bist du schejn 'original' yiddish version / [Bei mir bist du schejn](http://grooveshark.com/#!/album/a/4829960)
++ **Goran Bregović** - This Is a Film (feat. Iggy Pop) / [Arizona Dream](http://grooveshark.com/#!/album/a/181182)
++ **Tom Waits** - Hold On / [Mule Variations](http://grooveshark.com/#!/album/a/118291)
++ **Iggy Pop** - I Want To Go To The Beach / [Preliminaries](http://grooveshark.com/#!/album/a/6064855)
++ **Kara Güneş** - Cat / [Evreni Dinle](http://grooveshark.com/#!/album/a/4256526)
++ **Mehmet Güreli & Ayşe Tütüncü & Tahsin Ünüvar & İlkin Deniz** - Burada Seninle Kalmak Ýstiyorum / [Vapurlar](http://grooveshark.com/#!/album/a/8711020)
++ **Reshid Behbudov** - Kucelere Su Sepmishem / [?](http://grooveshark.com/#!/album/a/8430332)
++ **Reshid Behbudov** - Kucelere Su Sepmishem / [?](http://grooveshark.com/#!/album/a/8430332)
++ **Kesmeşeker** - Yağmur / [Tut Beni Düşmeden](http://grooveshark.com/#!/album/a/5467768)
++ **Duman** - Gözleri Kanlı / [Darmaduman](http://grooveshark.com/#!/album/a/9241495)
++ **Kesmeşeker** - Ne Zaman Gitti Tren / [Kum](http://grooveshark.com/#!/album/a/5467722)
++ **Reshid Behbudov** - Kucelere Su Sepmishem / [?](http://grooveshark.com/#!/album/a/8430332)
++ **Kara Güneş** - Santurdmaj / [Yeniden](http://grooveshark.com/#!/album/a/4256530)
++ **OST** - Dialogue - Queen of the crime council / [Kill Bill: Vol I](http://grooveshark.com/#!/album/a/1486908)
++ **Malcolm McLaren** - About Her / [Kill Bill: Vol. 2](http://grooveshark.com/#!/album/a/2441084)
++ **Samuel L. Jackson** - Pulp Fiction - Ezekiel 25-17 / [Pulp Fiction Soundtrack](http://grooveshark.com/#!/album/a/350231)
++ **Ennio Morricone** - Il Tramonto / [Kill Bill: Vol. 2](http://grooveshark.com/#!/album/a/2441084)
++ **Kool & The Gang** - Jungle Boogie / [Pulp Fiction](http://grooveshark.com/#!/album/a/196260)
++ **Russian Red** - Cigarettes / [I Love Your Glasses](http://grooveshark.com/#!/album/a/1629872)
++ **Nouvelle Vague** - In a Manner of Speaking / [Nouvelle Vague](http://grooveshark.com/#!/album/a/141498)
++ **Blondie** - Maria / [No Exit](http://grooveshark.com/#!/album/a/316651)
++ **Deep Purple** - When a Blind Man Cries / [Live at Montreux 1996](http://grooveshark.com/#!/album/a/244504)
++ **Iron Maiden** - When the Wild Wind Blows / [The Final Frontier http://noxos.blogspot.com/](http://grooveshark.com/#!/album/a/5758257)
++ **Barış Manço** - Selahaddin Eyyubi'nin Yeğeni Aslan Yürekli Rişar'ın Kız Kardeşine Karşı / [Estağfurullah...Ne Haddimize...](http://grooveshark.com/#!/album/a/4479788)
++ **Lynyrd Skynyrd** - Tuesday's Gone / [Greatest Hits](http://grooveshark.com/#!/album/a/1071461)
++ **Metallica** - Tuesday's Gone / [Garage Inc.](http://grooveshark.com/#!/album/a/1173080)
++ **Víctor Jara** - Manifiesto / [Antologia](http://grooveshark.com/#!/album/a/4768879)
++ **Víctor Jara** - Manifiesto / [Antologia](http://grooveshark.com/#!/album/a/4768879)
++ **Violeta Parra** - Gracias a la vida / [Las últimas composiciones de Violeta Parra](http://grooveshark.com/#!/album/a/8896234)
++ **Peggy Lee** - Johnny Guitar / [The Best Of The Decca Years](http://grooveshark.com/#!/album/a/695486)
++ **Elvis Presley** - In the Ghetto / [The Essential Elvis Presley](http://grooveshark.com/#!/album/a/427535)
++ **Mungo Jerry** - In the Summertime / [Greatest Hits](http://grooveshark.com/#!/album/a/1519661)
++ **Dokken** - I Will Remember / [One Live Night](http://grooveshark.com/#!/album/a/685588)
++ **Timur Selçuk** - timur selcuk - ihtiyarlar balladi / [Timur Selçuk- Oda Orkestrası](http://grooveshark.com/#!/album/a/7864312)
++ **Timur Selçuk** - Ispanyol Meyhanesi / [Ispanyol Meyhanesi](http://grooveshark.com/#!/album/a/5739523)
++ **Víctor Jara** - El cigarrito / [1959 - 1969 CD01](http://grooveshark.com/#!/album/a/4850969)
++ **Birsen Tezer/Hüsnü Arkan** - Hoş Geldin / [Solo](http://grooveshark.com/#!/album/a/8776637)
++ **Luis Bacalov** - Summertime Killer / [Kill Bill: Vol. 2](http://grooveshark.com/#!/album/a/2441084)
++ **Rockin' Bones** - Domino - Roy Orbison / [Rockin' Bones: 1950s Punk & Rockabilly (Disc 2)](http://grooveshark.com/#!/album/a/4015723)
++ **The Dust Brothers** - This Is Your Life (feat. Brad Pitt) / [Fight Club](http://grooveshark.com/#!/album/a/277161)
++ **Mazzy Star** - Flowers in December / [Among My Swan](http://grooveshark.com/#!/album/a/204791)
++ **Pilli Bebek** - Haram Geceler / [Behzat Ç. Dizi Ve Film Müzikleri](http://grooveshark.com/#!/album/a/8460949)
++ **Soundtracks** - Maximus / [Gladiator: More Music ](http://grooveshark.com/#!/album/a/8631570)
++ **Soundtracks** - Duduk Of The North / [Gladiator: More Music ](http://grooveshark.com/#!/album/a/8631570)
++ **Soundtracks** - Now We Are Free (Juba's Mix) / [Gladiator: More Music ](http://grooveshark.com/#!/album/a/8631570)
++ **Hans Zimmer** - Now We Are Free / [Gladiator](http://grooveshark.com/#!/album/a/143539)
++ **Movie Quotes - Gladiator** - Movie Quotes - Gladiator - Maximus Decimus Meridius Speech / [Fudges  Music](http://grooveshark.com/#!/album/a/7580415)
++ **Pixies** - Where Is My Mind ? / [Fight Club](http://grooveshark.com/#!/album/a/277163)
++ **Kazım Koyuncu & Grup Dinmeyen** - 005- Kavganın Ortasında / [SİSLER BULVARI](http://grooveshark.com/#!/album/a/8451126)
++ **Teoman** - Uçurtmalar / [İnsanlık Halleri](http://grooveshark.com/#!/album/a/3258511)
++ **Nancy Sinatra** - Bang Bang (My Baby Shot Me Down) / [Kill Bill Vol 1](http://grooveshark.com/#!/album/a/238260)
++ **Led Zeppelin** - Stairway to Heaven / [[Led Zeppelin IV]](http://grooveshark.com/#!/album/a/124602)
++ **Urge Overkill** - Girl, You'll Be a Woman Soon / [Pulp Fiction (Soundtrack)](http://grooveshark.com/#!/album/a/4248353)
++ **Kazım Koyuncu & Grup Dinmeyen** - 003- Hatırlayışlar / [SİSLER BULVARI](http://grooveshark.com/#!/album/a/8451126)
++ **Nina Simone** - Sinnerman / [Thomas Crown Affair](http://grooveshark.com/#!/album/a/298558)
++ **Nick Cave & The Bad Seeds** - Where The Wild Roses Grow / [B-Sides & Rarities - Volume II](http://grooveshark.com/#!/album/a/780136)
++ **Various Artists** - 18 With A Bullet / [Lock Stock & Two Smoking Barrels](http://grooveshark.com/#!/album/a/243396)
++ **Duman** - Yaðmurun Sabahýnda / [Duman I](http://grooveshark.com/#!/album/a/8450995)
++ **The Smiths** - Asleep / [The Smiths](http://grooveshark.com/#!/album/a/184803)
++ **Tom Waits** - Danny Says / [Orphans: Brawlers, Bawlers & Bastards](http://grooveshark.com/#!/album/a/297762)
++ **Vashti Bunyan** - Train Song / [Some Things Just Stick in Your Mind](http://grooveshark.com/#!/album/a/3975654)
++ **Joanna Newsom** - The Book of Right-on / [The Milk-Eyed Mender](http://grooveshark.com/#!/album/a/181594)
++ **Dana Fuchs** - Don't Let Me Down / [Across The Universe Soundtrack](http://grooveshark.com/#!/album/a/559341)
++ **Czeslaw Spiewa** - Wesoly Kapelusz / [Debiut](http://grooveshark.com/#!/album/a/3871345)
++ **BRENNA MACCRIMMON** - Şemsiyemin Ucu Kare / [Kulak Misafiri - events in small chambers](http://grooveshark.com/#!/album/a/3658095)
++ **DeVotchKa** - Undone / [A Mad & Faithful Telling](http://grooveshark.com/#!/album/a/1221080)
++ **BRENNA MACCRIMMON** - Şemsiyemin Ucu Kare / [Kulak Misafiri - events in small chambers](http://grooveshark.com/#!/album/a/3658095)
++ **Nino Rota** - The Godfather Waltz / [The Godfather](http://grooveshark.com/#!/album/a/128017)
++ **Billie Joe Armstrong and Norah Jones** - Oh So Many Years / [Foreverly](http://grooveshark.com/#!/album/a/9368484)
++ **mazhar alanson** - benim hala umudum var / [her sey cok guzel olacak sountrack](http://grooveshark.com/#!/album/a/7997310)
++ **Nick Cave** - Henry Lee / [Murder Ballads](http://grooveshark.com/#!/album/a/3735721)
++ **Esin Engin** - Seven Ne Yapmaz / [Paranoyak Omlet Arþivi](http://grooveshark.com/#!/album/a/6458260)
++ **Duman** - Senin Marþýn / [Duman II](http://grooveshark.com/#!/album/a/3644600)
++ **yüzyüzeyken konuşuruz** - Konuşulacak Şeyler / [none](http://grooveshark.com/#!/album/a/6303080)
++ **CEM KARACA** - Omrum / [NERDE KALMIŞTIK](http://grooveshark.com/#!/album/a/8138024)
++ **Neşet Ertaş** - Karadir Bu Bahtim Kara / [Unknown](http://grooveshark.com/#!/album/a/6736665)
++ **Chicago** - Hard to Say I'm Sorry / [The Best Rock Ballads in the World... Ever (disc 2)](http://grooveshark.com/#!/album/a/2510530)
++ **Dana Fuchs** - Don't Let Me Down / [Across The Universe Soundtrack](http://grooveshark.com/#!/album/a/559341)
++ **Gustavo Santaolalla** - The Wings / [Brokeback Mountain](http://grooveshark.com/#!/album/a/163802)
++ **Lucie Silvas** - Nothing Else Matters / [Nothing Else Matters](http://grooveshark.com/#!/album/a/3870583)
++ **Kesmeşeker** - Herşey Sermaye İçin Sevgilim / [Doğdum Ben Memlekette](http://grooveshark.com/#!/album/a/7347963)
++ **Sonata Arctica** - Still Loving You / [Takatalvi](http://grooveshark.com/#!/album/a/415300)
++ **Bruce Springteen** - The River / [The River](http://grooveshark.com/#!/album/a/7967990)
++ **Fugees** - No Woman, No Cry [Bob Marley & The Wailers] / [Awesome Covers Vol. 9](http://grooveshark.com/#!/album/a/4180212)
++ **Yeni Türkü** - Yagmurun Elleri / [Yeşilmişik](http://grooveshark.com/#!/album/a/2674729)
++ **Tonic** - If You Could Only See (Acoustic) / [](http://grooveshark.com/#!/album/a/1385813)
++ **Captain Jack** - Heyo Captin Jack / [Captain Jack](http://grooveshark.com/#!/album/a/1296493)
++ **Gevende** - Nem / [Gevende](http://grooveshark.com/#!/album/a/4198220)
++ **Scorpions** - Wind Of Change / [The Scorpions](http://grooveshark.com/#!/album/a/4954603)
++ **Guns N' Roses** - November Rain / [Use Your Illusion I](http://grooveshark.com/#!/album/a/1087104)
++ **Guns N' Roses** - Knockin' on Heaven's Door / [Use Your Illusion II](http://grooveshark.com/#!/album/a/1087105)
++ **Dire Straits** - Sultans of Swing / [Sultans of Swing: The Very Best of Dire Straits](http://grooveshark.com/#!/album/a/1385089)
++ **Uriah Heep** - Lady In Black / [100% Rock Classic (CD 3)](http://grooveshark.com/#!/album/a/7396839)
++ **UFO** - Doctor Doctor / [Phenomenon](http://grooveshark.com/#!/album/a/1321351)
++ **Janice Joplin** - Piece Of My Heart / [Flower Power](http://grooveshark.com/#!/album/a/219120)
++ **Steve Vai** - For The Love Of God (Album Version) / [The Infinite Steve Vai: An Anthology](http://grooveshark.com/#!/album/a/3563832)
++ **Epica** - Cry For The Moon / [The Phantom Agony](http://grooveshark.com/#!/album/a/200319)
++ **Yavuz Çetin** - Oyuncak Dünya / [Satılık](http://grooveshark.com/#!/album/a/3962108)
++ **Dokken** - I Will Remember / [One Live Night](http://grooveshark.com/#!/album/a/685588)
++ **St. Germain** - Rhythm Factory / African Rhythm (A Touch Of Jazz Mix) / [Saint Germain des prés café 7](http://grooveshark.com/#!/album/a/4805816)
++ **Birsen Tezer/Hüsnü Arkan** - Hoş Geldin / [Solo](http://grooveshark.com/#!/album/a/8776637)
++ **Birsen Tezer** - Seher Vakti / [Cihan](http://grooveshark.com/#!/album/a/3497466)
++ **Esra Dalfidan** - Sen Gelmez Oldun / [Colors](http://grooveshark.com/#!/album/a/5305689)
++ **Erkan Oğur** - 04 - Goodbye Pork Pie Hot Blues - Charles Mingus.mp3 / [Perdesiz Gitarda Arayışlar](http://grooveshark.com/#!/album/a/3685312)
++ **Fatih Erkoç & Kerem Görsev Trio** - What a Wonderful World / [the Lady from Istanbul](http://grooveshark.com/#!/album/a/7559606)
++ **Göksel Baktagir - Ceyhun Çelikten - Baki Kemancý** - Utangaç / [Hayal Gibi](http://grooveshark.com/#!/album/a/5261341)
++ **Issac Hayes** - The Look Of Love / [Dead Presidents](http://grooveshark.com/#!/album/a/7757299)
++ **Carla Morrison** - Hasta la piel / [Aprendiendo a aprender](http://grooveshark.com/#!/album/a/3829003)
++ **Ezginin Günlüğü** - Sen giderken / [Sabah turkusu](http://grooveshark.com/#!/album/a/4367262)
++ **Various Artists - Frochot Music** - Wisky Soda - Bembeya Jazz National / [African Roots](http://grooveshark.com/#!/album/a/823674)
++ **Esra Dalfidan** - Sana Bele N'oldu Yar / [Counter Point](http://grooveshark.com/#!/album/a/5698342)
++ **Esra Dalfidan** - Sana Bele N'oldu Yar / [Counter Point](http://grooveshark.com/#!/album/a/5698342)
++ **Mehmet Güreli** - Kimse Bilmez / [-](http://grooveshark.com/#!/album/a/4448850)
++ **Sam & Dave** - When Something Is Wrong With My Baby / [Dead Presidents OST Vol. II](http://grooveshark.com/#!/album/a/5412792)
++ **Ezginin Günlüğü** - Seni Düsünmek Güzel Sey / [Seni Dusunmek](http://grooveshark.com/#!/album/a/3462497)
++ **John Coltrane** - Blue Train / [Blue Train](http://grooveshark.com/#!/album/a/113445)
++ **Louis Armstrong** - What a Wonderful World / [What a wonderful world](http://grooveshark.com/#!/album/a/2676225)
++ **Selen Gülün** - Coming Soon / [Just About Jazz (Live)](http://grooveshark.com/#!/album/a/7705837)
++ **Yezda Urfa** - Boris and His 3 Verses, Includ / [Boris](http://grooveshark.com/#!/album/a/4339671)
++ **Camel** - Lady Fantasy / [The Paris Collection](http://grooveshark.com/#!/album/a/807845)
++ **Kalmah** - Hollo / [Seventh Swamphony](http://grooveshark.com/#!/album/a/8972956)
++ **Credence Clearwater Revival** - House of the Rising Sun / [CCR Greatest Hits](http://grooveshark.com/#!/album/a/8060596)
++ **Jerry Garcia** - House of the Rising Sun / [Knockin' on Heaven's Door](http://grooveshark.com/#!/album/a/3487028)
++ **Şirin Soysal** - Uyurgezer / [Bir Şeyler Var](http://grooveshark.com/#!/album/a/7378617)
++ **Jerry Garcia** - House of the Rising Sun / [Knockin' on Heaven's Door](http://grooveshark.com/#!/album/a/3487028)
++ **Crosby, Stills, Nash & Young** - Chicago / [4 Way Street](http://grooveshark.com/#!/album/a/1241761)
++ **Şirin Soysal** - Kuralsız Kahraman / [Bir Şeyler Var](http://grooveshark.com/#!/album/a/7378617)
++ **Unknown** - Es gisher lusnyak gisher / [Unknown](http://grooveshark.com/#!/album/a/92822)
++ **Αλκίνοος Ιωαννίδης** - Yperastiko / [Apo Tin Agora Tou Kosmou Os Tin Neroponti](http://grooveshark.com/#!/album/a/6590471)
++ **Jerry Garcia** - House Of The Rising Sun / [The Pizza Tapes](http://grooveshark.com/#!/album/a/312924)
++ **Birsen Tezer** - Nefes / [İki Cihan](http://grooveshark.com/#!/album/a/8684307)
++ **Pretenders** - I'll Stand By You / [M1+ Top 1000](http://grooveshark.com/#!/album/a/290242)
++ **Tanju Okan** - Koy koy / [Best Of Tanju Okan](http://grooveshark.com/#!/album/a/4885285)
++ **bandista** - hiç kimsenin şarkısı / [Sınırsız Ulussuz Sansürsüz](http://grooveshark.com/#!/album/a/9056124)
++ **Erkan Ogur** - Bir Suh Sitemkar / [Anadolu Besik](http://grooveshark.com/#!/album/a/8684472)
++ **Kesmeşeker** - Ne Zaman Gitti Tren / [Kum](http://grooveshark.com/#!/album/a/5467722)
++ **Jim Croce** - These Dreams / [Photographs & Memories: His Greatest Hits](http://grooveshark.com/#!/album/a/181563)
++ **Wishbone Ash** - Warrior / [Argus](http://grooveshark.com/#!/album/a/628210)
++ **Bob Seger & The Silver Bullet** - Turn The Page / [500 Greatest Rock & Roll Songs](http://grooveshark.com/#!/album/a/8829686)
++ **Ara Dinkjian/Arto Tuncboyaciyan/Dogan, Aytac/Irmak, Ercan/Ismail Soyberk/Kbachbatrian/Mustafa Süder** - Herkes Kendi Gördügüne Dogru Der / [Aile Muhabbeti](http://grooveshark.com/#!/album/a/5957037)
++ **Kardeş Türküler** - Zamanýn Bahçesinde / [Çocuk Haklı](http://grooveshark.com/#!/album/a/7707183)
++ **Zeki Müren** - Sorma / [Sorma](http://grooveshark.com/#!/album/a/3658116)
++ **Tanju Okan** - Hasret / [Best Of Tanju Okan](http://grooveshark.com/#!/album/a/4885285)
++ **Tanju Okan** - İçkim Sigaram / [Best Of](http://grooveshark.com/#!/album/a/1581518)
++ **Bülent Ortaçgil** - Benimle Oynarmisin / [](http://grooveshark.com/#!/album/a/4130077)
++ **Crosby, Stills, Nash & Young** - Teach Your Children / [So Far](http://grooveshark.com/#!/album/a/1118421)
++ **Rainbow** - Rainbow Eyes / [The Best Of Rainbow](http://grooveshark.com/#!/album/a/781361)
++ **Rainbow** - Catch The Rainbow / [The Best Of Rainbow](http://grooveshark.com/#!/album/a/781361)
++ **Carissa's Wierd** - Chelsea Hotel (Leonard Cohen Cover) / [Scrap Book](http://grooveshark.com/#!/album/a/1975805)
++ **Ezginin Günlüğü** - Huma kuşu / [Doğu türküleri](http://grooveshark.com/#!/album/a/5456902)
++ **Nirvana** - Something In The Way [MTV Unplugged] / [MTV Unplugged in New York](http://grooveshark.com/#!/album/a/1524169)
++ **Camel** - Stationary Traveller / [Stationary Traveller](http://grooveshark.com/#!/album/a/807840)
++ **Camel** - Irish Air / [Harbour of Tears](http://grooveshark.com/#!/album/a/807842)
++ **Rick Wright** - Mediterranean C / [Wet Dream](http://grooveshark.com/#!/album/a/4018152)
++ **Jim Croce** - Photographs and Memories / [Photographs & Memories: His Greatest Hits](http://grooveshark.com/#!/album/a/181563)
++ **Camel** - Irish Air / [Harbour of Tears](http://grooveshark.com/#!/album/a/807842)
++ **Camel** - Irish Air (instrumental reprise) / [Harbour of Tears](http://grooveshark.com/#!/album/a/807842)
++ **Camel** - Cóbh / [Harbour of Tears](http://grooveshark.com/#!/album/a/807842)
++ **Camel** - Under the Moon / [Harbour of Tears](http://grooveshark.com/#!/album/a/807842)
++ **Şirin Soysal** - Bir Gün Bir Gün / [Bir Şeyler Var](http://grooveshark.com/#!/album/a/7378617)
++ **Şirin Soysal** - Yeni Ay / [Bir Şeyler Var](http://grooveshark.com/#!/album/a/7378617)
++ **Camel** - End of the Line / [Dust and Dreams](http://grooveshark.com/#!/album/a/1399050)
++ **Camel** - Pressure Points / [Stationary Traveller](http://grooveshark.com/#!/album/a/807840)
++ **Camel** - Stationary Traveller (Instrumental) / [Stationary Traveller](http://grooveshark.com/#!/album/a/807840)
++ **Camel** - Selva / [The Single Factor](http://grooveshark.com/#!/album/a/807839)
++ **Camel** - End Peace / [The Single Factor](http://grooveshark.com/#!/album/a/807839)
++ **Sonata Arctica** - Letter to Dana / [Ecliptica](http://grooveshark.com/#!/album/a/263135)
++ **Camel** - Selva / [The Single Factor](http://grooveshark.com/#!/album/a/807839)
++ **Camel** - Nude / [Nude](http://grooveshark.com/#!/album/a/163723)
++ **Camel** - Drafted / [Nude](http://grooveshark.com/#!/album/a/163723)
++ **Camel** - Ice / [I Can See Your House From Here](http://grooveshark.com/#!/album/a/636235)
++ **Mircan Kaya** - Osman'um / [Kül](http://grooveshark.com/#!/album/a/3658629)
++ **emiliana torrini** - Jungle Drum / [Me and Armini](http://grooveshark.com/#!/album/a/2285846)
++ **Nick Cave & The Bad Seeds** - The Kindness of Strangers / [Murder Ballads](http://grooveshark.com/#!/album/a/266550)
++ **Camel** - Lullabye / [The Single Factor](http://grooveshark.com/#!/album/a/807839)
++ **Noir Désir** - Le Vent Nous Portera / [Des Visages Des Figures](http://grooveshark.com/#!/album/a/284021)
++ **Zülfü Livaneli** - Kuslarin Vuruldugu Zaman / [Gökyüzü Herkesindir](http://grooveshark.com/#!/album/a/4359956)
++ **Sonata Arctica** - Fade to Black / [Takatalvi](http://grooveshark.com/#!/album/a/415300)
++ **Amel Mathlouthi** - Kelmti horra / [kelmti horra](http://grooveshark.com/#!/album/a/5920997)
++ **Tony Gatlif** - Naci en Alamo / [Vengo](http://grooveshark.com/#!/album/a/3469371)
++ **bandista** - hiç kimsenin şarkısı / [Sınırsız Ulussuz Sansürsüz](http://grooveshark.com/#!/album/a/9056124)
++ **bandista** - kim yerli kim göçmen / [Sınırsız Ulussuz Sürgünsüz](http://grooveshark.com/#!/album/a/9056131)
++ **The White Stripes** - One More Cup of Coffee / [The White Stripes](http://grooveshark.com/#!/album/a/116124)
++ **Camel** - Song Within a Song / [Moonmadness](http://grooveshark.com/#!/album/a/165370)
++ **Camel** - Chord Change / [Moonmadness](http://grooveshark.com/#!/album/a/165370)
++ **Camel** - The Snow Goose / [The Snow Goose](http://grooveshark.com/#!/album/a/2528056)
++ **Camel** - Sanctuary / [The Snow Goose](http://grooveshark.com/#!/album/a/2528056)
++ **Camel** - Stationary Traveller (Instrumental) / [Stationary Traveller](http://grooveshark.com/#!/album/a/807840)
++ **Camel** - Rhayader Alone / [The Snow Goose](http://grooveshark.com/#!/album/a/2528056)
++ **Camel** - 16-The Great Marsh.mp3 / [The Snow Goose](http://grooveshark.com/#!/album/a/2528056)
++ **Camel** - Separation / [Camel](http://grooveshark.com/#!/album/a/726285)
++ **Siya Siyabend** - Saha Doğru / [karışık](http://grooveshark.com/#!/album/a/9182667)
++ **Kara Güneş** - daglar var / [Santur Kayitlari](http://grooveshark.com/#!/album/a/5086369)
++ **Zülfü Livaneli** - karli kayin ormani / [Maria Faranduri - Livaneli Söylüyor](http://grooveshark.com/#!/album/a/7177143)
++ **Mikis Theodorakis** - Zorba's Dance / [Zorba the Greek](http://grooveshark.com/#!/album/a/263523)
++ **Beirut** - Siki, Siki Baba (Ko?ani Orkestar cover) / [Black Session](http://grooveshark.com/#!/album/a/4232243)
++ **Gogol Bordello** - Sun Is on My Side / [Trans-Continental Hustle](http://grooveshark.com/#!/album/a/4171006)
++ **Andrea Bocelli** - En Aranjuez con tu amor / [Sentimento](http://grooveshark.com/#!/album/a/178765)
++ **Rodrigo** - Aranjuez concerto for guitar, 2nd movement adagio / [Les Génies De La Musique, Concertos En Émotion](http://grooveshark.com/#!/album/a/2927736)
++ **Los Mustang** - En Aranjuez Con Tu Amor / [Los Singles (1964-1973) CD 1](http://grooveshark.com/#!/album/a/8692895)
++ **Andrea Bocelli/The London Symphony Orchestra** - En Aranjuez Con Ta Amor / [Sentimento](http://grooveshark.com/#!/album/a/178765)
++ **Santana** - En Aranjuez con Tu Amor / [Brothers](http://grooveshark.com/#!/album/a/3999550)
++ **Zardanadam** - Hepsi Hepsi Hayat Nasýl Olsa [Akustik Performans] / [www.dipses.net](http://grooveshark.com/#!/album/a/4743381)
++ **Clash** - Bank Robber / [Rocknrolla](http://grooveshark.com/#!/album/a/2893000)
++ **Dark Tranquility** - Lethe / [The Gallery](http://grooveshark.com/#!/album/a/8245438)
++ **Bulutsuzluk Özlemi** - Sözlerimi Geri Alamam / [Bulutsuzluk Senfoni](http://grooveshark.com/#!/album/a/3991662)
++ **Birsen Tezer** - Balıkesir / [Cihan](http://grooveshark.com/#!/album/a/3497466)
++ **Deep Purple** - Anthem / [The Best of Deep Purple](http://grooveshark.com/#!/album/a/250535)
++ **Eric Clapton** - Three O'Clock Blues / [Riding With the King](http://grooveshark.com/#!/album/a/111014)
++ **Fanfare Ciocărlia** - Manea Tiganilor / [Baro Biao - World Wide Wedding](http://grooveshark.com/#!/album/a/290464)
++ **Gordon Lightfoot** - Sundown / [Complete Greatest Hits](http://grooveshark.com/#!/album/a/124544)
++ **Sezen Aksu** - Denge / [Adı Bende Saklı](http://grooveshark.com/#!/album/a/3657451)
++ **Nick Cave and the Bad Seeds** - We No Who U R / [Push the Sky Away](http://grooveshark.com/#!/album/a/8531725)
++ **Santana** - Samba Pa Ti / [Abraxas](http://grooveshark.com/#!/album/a/183477)
++ **Grup Yorum** - Gelci Safaklar Tutussun / [Gel ki Safaklar Tutussun](http://grooveshark.com/#!/album/a/3699125)
++ **bandista** - Hicbir Seyin Sarkisi / [De Te Fabula Narratur](http://grooveshark.com/#!/album/a/3619032)
++ **Paula Darwish** - Daye Daye / [Do what you love - Yüreðinin götürdüðü yere git](http://grooveshark.com/#!/album/a/3241983)
++ **Kroke** - Usual Happiness / [Ten Pieces To Save The World](http://grooveshark.com/#!/album/a/3955282)
++ **500 Days Of Summer Original Soundtrack** - Simon And Garfunkel-Bookends / [500 Days Of Summer](http://grooveshark.com/#!/album/a/3544078)
++ **Ludovico Einaudi** - Divenire / [Divenire](http://grooveshark.com/#!/album/a/556279)
++ **Deep Purple** - When A Blind Man Cries / [Greatest Hits](http://grooveshark.com/#!/album/a/1838286)
++ **Kesmeşeker** - Tek Kişiyim Ben Hâlâ / [Kum](http://grooveshark.com/#!/album/a/5467722)
++ **Johann Sebastian Bach** - Chaconne For Solo Violin / [Best of Bach](http://grooveshark.com/#!/album/a/1653014)
++ **Cinderella** - Nobody's Fool / [Once Upon A...](http://grooveshark.com/#!/album/a/316725)
++ **Cinderella** - Gypsy Road / [Live Greatest Hits](http://grooveshark.com/#!/album/a/600419)
++ **The Fisher Family** - Joy Of My Heart / [The Acoustic Folk Box (Disc 1)](http://grooveshark.com/#!/album/a/1030844)
++ **Yeni Türkü** - Olmasa Mektubun / [Koleksiyon (Disc 3)](http://grooveshark.com/#!/album/a/3657317)
++ **Steve Ashley** - Once In A While / [The Acoustic Folk Box (Disc 2)](http://grooveshark.com/#!/album/a/1030859)
++ **Grup Ekin** - seninle biz.mp3 / [Kavgayı Seçtim](http://grooveshark.com/#!/album/a/5549338)
++ **Grup Ekin** - bize ölüm yok / [Bize Ölüm Yok](http://grooveshark.com/#!/album/a/5550104)
++ **Zeki Müren** - Seni Sordum Yildizlara / [Ayrildik Iste](http://grooveshark.com/#!/album/a/3665473)
++ **Jerry Garcia** - Knockin' on Heaven's Door / [Garcia Plays Dylan](http://grooveshark.com/#!/album/a/831274)
++ **Jerry Garcia** - Visions of Johanna / [Garcia Plays Dylan](http://grooveshark.com/#!/album/a/831274)
++ **Santana** - Luz Amor Y Vida / [Santana Brothers](http://grooveshark.com/#!/album/a/1201728)
++ **Santana** - La Danza / [Santana Brothers](http://grooveshark.com/#!/album/a/1201728)
++ **Santana** - Blues Latino / [Santana Brothers](http://grooveshark.com/#!/album/a/1201728)
++ **Santana** - Contigo / [Santana Brothers](http://grooveshark.com/#!/album/a/1201728)
++ **Santana** - I Love You Much Too Much / [Zebop!](http://grooveshark.com/#!/album/a/3428151)
++ **Santana** - Brightest Star / [Zebop!](http://grooveshark.com/#!/album/a/3428151)
++ **Santana** - Life Is a Lady / Holiday / [Inner Secrets](http://grooveshark.com/#!/album/a/183479)
++ **Santana** - The Facts of Love / [Inner Secrets](http://grooveshark.com/#!/album/a/183479)
++ **Santana** - Contigo / [Santana Brothers](http://grooveshark.com/#!/album/a/1201728)
++ **Black Oak Arkansas** - Moonshine Sonata / [High on the Hog](http://grooveshark.com/#!/album/a/568878)
++ **Santana** - I Love You Much Too Much / [Zebop!](http://grooveshark.com/#!/album/a/3428151)
++ **Creedence Clearwater Revival** - Bad Moon Rising / [Bad Moon Rising: The Best of Creedence Clearwater Revival](http://grooveshark.com/#!/album/a/2881466)
++ **The Allman Brothers Band** - You Don’t Love Me / [At Fillmore East](http://grooveshark.com/#!/album/a/124538)
++ **38 Special** - Same Old Feeling / [Flashback: The Best of .38 Special](http://grooveshark.com/#!/album/a/1092174)
++ **Stevie Ray Vaughan** - Scratch'n'Sniff unused lick / [Interview/Lesson Disc from Guitar World](http://grooveshark.com/#!/album/a/6117278)
++ **Grup Ekin** - evin (sevda) / [Bize Ölüm Yok](http://grooveshark.com/#!/album/a/5550104)
++ **Grup Ekin** - bize ölüm yok / [Bize Ölüm Yok](http://grooveshark.com/#!/album/a/5550104)
++ **Grup Ekin** - nesini söyleyim.mp3 / [Kavgayı Seçtim](http://grooveshark.com/#!/album/a/5549338)
++ **Against Me!** - Bastards Of Young / [Singles, B-Sides, And Rarities](http://grooveshark.com/#!/album/a/7305476)
++ **Tom Waits** - Day After Tomorrow / [Real Gone](http://grooveshark.com/#!/album/a/134735)
++ **Tom Waits** - Misery Is the River of the World / [Blood Money](http://grooveshark.com/#!/album/a/186196)
++ **Tom Waits** - Coney Island Baby / [Blood Money](http://grooveshark.com/#!/album/a/186196)
++ **Krishna Das** - Govinda Hare / [Pilgrim Heart](http://grooveshark.com/#!/album/a/897633)
++ **Yoga Zone** - Tibet Part II (Mark Isham) / [Yoga Zone - Music For Meditation](http://grooveshark.com/#!/album/a/1414689)
++ **Krishna Das** - Sita's Prayer/Hey Mata Durga / [Door of Faith](http://grooveshark.com/#!/album/a/2439417)
++ **Jimi Hendrix** - Once I Had a Woman / [Blues](http://grooveshark.com/#!/album/a/159437)
++ **Santana** - Santana Jam / [The San Mateo Sessions 1969](http://grooveshark.com/#!/album/a/757185)
++ **Toz ve Toz** - pembe tank (akustik) / [Toz ve Toz](http://grooveshark.com/#!/album/a/4427399)
++ **Toz ve Toz** - proj_01 / [Toz ve Toz](http://grooveshark.com/#!/album/a/4427399)
++ **Ayşe Tütüncü** - Carla'nın Tangosu / [Çeşitlemeler](http://grooveshark.com/#!/album/a/6746975)
++ **Ayşe Tütüncü** - Hasta Siempre / [Çeşitlemeler](http://grooveshark.com/#!/album/a/6746975)
++ **Bob Dylan** - Not Dark Yet / [Time Out of Mind](http://grooveshark.com/#!/album/a/2175622)
++ **The Avett Brothers** - Pretty Girl From Chile / [Emotionalism](http://grooveshark.com/#!/album/a/138992)
++ **Ayse Tütüncü Üclüsü** - Panayir / [Panayir](http://grooveshark.com/#!/album/a/8684185)
++ **gemide (on board)** - soundtrack / [gemide](http://grooveshark.com/#!/album/a/4619150)
++ **l.e.s.s.** - Ruh Hastası / [](http://grooveshark.com/#!/album/a/3745936)
++ **Bülent Ortaçgil** - Suna Abla / [Benimle Oynar mýsýn](http://grooveshark.com/#!/album/a/4130683)
++ **Sumru Agiryürüyen** - Gecesefasi / [Issiz](http://grooveshark.com/#!/album/a/7344588)
++ **derya türkan** - Nihavend Semai / [minstrel's era](http://grooveshark.com/#!/album/a/4205440)
++ **Paranoyak Omlet Arþivi** - El Cordobes / [Paranoyak Omlet Arþivi](http://grooveshark.com/#!/album/a/6459832)
++ **L.e.s.s.** - Yalanlar / [Bilinmeyen](http://grooveshark.com/#!/album/a/9452606)
++ **Janet & Jak Esim** - Yo Era Ninya De Kaza Alta / [Judeo - Espanyol Ezgiler](http://grooveshark.com/#!/album/a/5451881)
++ **Janet & Jak Esim** - Durme Durme / [Antik Bir Hüzün / Judeo-Espanol Sephardic Songs](http://grooveshark.com/#!/album/a/6672814)
++ **Yüzyüzeyken Konuşuruz** - Cenaze Evi / [Evdekilere Selamlar](http://grooveshark.com/#!/album/a/9324839)
++ **kaan boşnak** - son şarkı / [çabuk sanat](http://grooveshark.com/#!/album/a/5073310)
++ **Büyük Ev Ablukada** - Bir Hıçkırık Gibi / [Full Faça](http://grooveshark.com/#!/album/a/8799926)
++ **My Morning Jacket** - It Makes No Difference / [Endless Highway - The Music of The Band](http://grooveshark.com/#!/album/a/734205)
++ **My Morning Jacket** - Come Back To You / [Z](http://grooveshark.com/#!/album/a/172752)
++ **My Morning Jacket** - Come Back To You / [Z](http://grooveshark.com/#!/album/a/172752)
++ **My Morning Jacket** - Tyrone / [Ch. 2 Learning: Early Recordings](http://grooveshark.com/#!/album/a/4232902)
++ **Janet & Jak Esim** - Et share ratson / [Antik Bir Hüzün](http://grooveshark.com/#!/album/a/5990245)
++ **Ciwan HACO** - Gula Zer / [Cenga Gel](http://grooveshark.com/#!/album/a/5027026)
++ **Ciwan HACO** - Felestin / [Cenga Gel](http://grooveshark.com/#!/album/a/5027026)
++ **ciwan haco** - Hey Dilbere / [Girtîyên Azadîyê](http://grooveshark.com/#!/album/a/4610165)
++ **ciwan haco** - Zýnga / [Girtîyên Azadîyê](http://grooveshark.com/#!/album/a/4610165)
++ **ciwan haco** - Girtiyen Azadiye / [Girtîyên Azadîyê](http://grooveshark.com/#!/album/a/4610165)
++ **ciwan haco** - Birindarkýrýn Ðeribiye / [Girtîyên Azadîyê](http://grooveshark.com/#!/album/a/4610165)
++ **Tayfun Erdem** - Track 3 / [Unknown Album (10.01.2005 22:24:09)](http://grooveshark.com/#!/album/a/3398229)
++ **Carlos Santana** - Europa / [Santana Greatest Hits](http://grooveshark.com/#!/album/a/6750928)
++ **Journey** - Faithfully - Journey / [Journeys Greatest Hits](http://grooveshark.com/#!/album/a/151951)
++ **Cem Karaca** - Durduramayacaklar Halkın Coşkun Akan Selini / [1 Mayıs](http://grooveshark.com/#!/album/a/9018356)
++ **Beirut** - Siki Siki Baba / [2006-10-20 - Great American Music Hall](http://grooveshark.com/#!/album/a/4537564)
++ **Iron Maiden** - The Number Of The Beast / [Best Of The Beast](http://grooveshark.com/#!/album/a/143394)
++ **Iron Maiden** - The Thin Line Between Love And Hate / [Brave New World](http://grooveshark.com/#!/album/a/145758)
++ **Carpenters** - Top of the World / [40/40](http://grooveshark.com/#!/album/a/3673174)
++ **Marty Friedman** - Forbidden City / [Greatest Hits](http://grooveshark.com/#!/album/a/3770566)
++ **Cat Stevens** - Father and Son / [The Very Best of Cat Stevens](http://grooveshark.com/#!/album/a/256011)
++ **Cat Stevens** - Whistlestar / [Cat Stevens Box Set (Box Set)](http://grooveshark.com/#!/album/a/4206856)
++ **Cat Stevens** - Katmandu / [Cat Stevens Box Set (Box Set)](http://grooveshark.com/#!/album/a/4206856)
++ **Cat Stevens** - Where Do The Children Play? / [Cat Stevens Box Set (Box Set)](http://grooveshark.com/#!/album/a/4206856)
++ **Cat Stevens** - Oh Very Young / [Cat Stevens Box Set (Box Set)](http://grooveshark.com/#!/album/a/4206856)
++ **Cat Stevens** - If You Want To Sing Out, Sing Out / [Cat Stevens Box Set (Box Set)](http://grooveshark.com/#!/album/a/4206856)
++ **bandista** - inkarin sarkisi / [daima!](http://grooveshark.com/#!/album/a/6075474)
++ **Mojave 3** - Love Songs on the Radio / [Ask Me Tomorrow](http://grooveshark.com/#!/album/a/182455)
++ **Creedence Clearwater Revival** - Long As I See The Light / [Cosmo’s Factory](http://grooveshark.com/#!/album/a/131383)
++ **Black Sabbath** - Solitude / [Master of Reality](http://grooveshark.com/#!/album/a/1239285)
++ **Black Sabbath** - I Won't Cry for You / [Forbidden](http://grooveshark.com/#!/album/a/282208)
++ **Black Sabbath** - It's Alright / [Technical Ecstasy](http://grooveshark.com/#!/album/a/282223)
++ **The Animals** - Coloured Rain (feat. Andy Summers) / [Absolute Animals 1964-1968](http://grooveshark.com/#!/album/a/636326)
++ **Black Sabbath** - Solitude / [Master of Reality](http://grooveshark.com/#!/album/a/1239285)
++ **Víctor Jara** - Manifiesto / [Antologia](http://grooveshark.com/#!/album/a/4768879)
++ **Víctor Jara** - El Cigarrito / [Antologia (CD1)](http://grooveshark.com/#!/album/a/5516642)
++ **Wintersun** - Land of Snow and Sorrow / [Time I](http://grooveshark.com/#!/album/a/8362705)
++ **DragonForce** - A Flame for Freedom / [Ultra Beatdown](http://grooveshark.com/#!/album/a/2256987)
++ **Simon & Garfunkel** - The Boxer / [Bridge Over Troubled Water](http://grooveshark.com/#!/album/a/121925)
++ **Omega** - Gyöngyhajú Lány / [10000 Lépés](http://grooveshark.com/#!/album/a/3963555)
++ **Buyuk Ev Ablukada** - Katlime Ferman / [bir eksiğiz](http://grooveshark.com/#!/album/a/9676037)
++ **Mazhar Alanson** - Sanatçının Öyküsü / [Vak the Rock](http://grooveshark.com/#!/album/a/9357331)
++ **Gogol Bordello** - Through the Roof 'n' Underground / [Multi Kontra Culti vs. Irony](http://grooveshark.com/#!/album/a/2407963)
++ **Gogol Bordello** - Start Wearing Purple / [Gypsy Punks: Underdog World Strike](http://grooveshark.com/#!/album/a/2572783)
++ **DeVotchKa** - La Llorona / [Little Miss Sunshine (Original Motion Picture Soundtrack)](http://grooveshark.com/#!/album/a/243373)
++ **Ruhi Su** - Ele Geniş Olan Şu Yalan Dünya / [Barabar](http://grooveshark.com/#!/album/a/6691682)
++ **DeVotchKa** - Charlotte Mittnacht (The Fabulous Destiny Of...) / [How It Ends](http://grooveshark.com/#!/album/a/1220936)
++ **Theme** - Heidi-Theme / [Original Soundtrack](http://grooveshark.com/#!/album/a/4753031)
++ **Theme** - Heidi-Theme / [Original Soundtrack](http://grooveshark.com/#!/album/a/4753031)
++ **Buyuk Ev Ablukada** - Katlime Ferman / [bir eksiğiz](http://grooveshark.com/#!/album/a/9676037)
++ **Black Sabbath** - Feels Good to Me (edit) / [Feels Good to Me](http://grooveshark.com/#!/album/a/3600981)
++ **U.D.O.** - I Gave as Good AS I Get / [Rev-Raptor](http://grooveshark.com/#!/album/a/6201174)
++ **U.D.O.** - I Gave as Good AS I Get / [Rev-Raptor](http://grooveshark.com/#!/album/a/6201174)
++ **Bodo Wartke** - Lalelilolu / [Noah war ein Archetyp - Zweite Fassung (Disc 1)](http://grooveshark.com/#!/album/a/6433884)
++ **Mojave 3** - When You're Drifting / [Excuses for Travellers](http://grooveshark.com/#!/album/a/221511)
++ **The Shirelles** - Will You Still Love Me Tomorrow / [Greatest Hits](http://grooveshark.com/#!/album/a/2760791)
++ **Cem Karaca** - Kerem Gibi / [Yayınlanmamış Kayıtlar](http://grooveshark.com/#!/album/a/7972622)
++ **Deep Purple** - Soldier of Fortune / [Stormbringer](http://grooveshark.com/#!/album/a/250543)
++ **Thin Lizzy** - Whiskey in the Jar / [Dedication: The Very Best of Thin Lizzy](http://grooveshark.com/#!/album/a/493493)
++ **Fairport Convention** - To Althea From Prison / [Nine](http://grooveshark.com/#!/album/a/2419617)
++ **Crosby, Stills, Nash & Young** - Almost Cut My Hair / [Déjà vu](http://grooveshark.com/#!/album/a/1118419)
++ **Crosby, Stills, Nash & Young** - Helplessly Hoping / [So Far](http://grooveshark.com/#!/album/a/1118421)
++ **Crosby, Stills, Nash & Young** - The Lee Shore / [4 Way Street](http://grooveshark.com/#!/album/a/1241761)
++ **Bob Dylan** - Sara / [Desire](http://grooveshark.com/#!/album/a/179459)
++ **Bob Dylan** - North Country Blues / [The Times They Are A-Changin'](http://grooveshark.com/#!/album/a/1853861)
++ **Bob Dylan** - Freight Train Blues / [Bob Dylan](http://grooveshark.com/#!/album/a/209948)
++ **Bob Dylan** - Moonshine Blues / [Gaslight Tapes](http://grooveshark.com/#!/album/a/360571)
++ **Bob Dylan** - Just Like Tom Thumb's Blues / [Yesterday](http://grooveshark.com/#!/album/a/4822969)
++ **Ezginin Gunlugu & Hakan Yilmaz** - Daglarda Kar Sesi Var / [Dogu Turkuleri](http://grooveshark.com/#!/album/a/8391450)
++ **65daysofstatic** - Radio Protector / [One Time for All Time](http://grooveshark.com/#!/album/a/1497050)
++ **Caspian** - ASA / [The Four Trees](http://grooveshark.com/#!/album/a/638101)
++ **The Twilight Sad** - Cold Days From The Birdhouse / [Fourteen Autumns & Fifteen Winters](http://grooveshark.com/#!/album/a/1434647)
++ **A Silver Mt. Zion** - God Bless Our Dead Marines / [Horses in the Sky](http://grooveshark.com/#!/album/a/1657910)
++ **Cult of Luna** - Ghost Trail / [Eternal Kingdom](http://grooveshark.com/#!/album/a/2833214)
++ **1 Mile North** - In 1983 He Loved To Fly / [後搖催淚彈](http://grooveshark.com/#!/album/a/7979056)
++ **Mercury Rev** - The Dark Is Rising / [All Is Dream](http://grooveshark.com/#!/album/a/182309)
++ **Toundra** - Cielo Negro (Black Sky) / [(III)](http://grooveshark.com/#!/album/a/8207092)
++ **Hans Zimmer and Lisa Gerrard** - Duduk of the North / [More Music From the Motion Picture Gladiator](http://grooveshark.com/#!/album/a/6604842)
++ **Djam Karet** - Feast of Ashes / [Burning the Hard City](http://grooveshark.com/#!/album/a/5459830)
++ **Godspeed You! Black Emperor** - Sleep / [Lift Yr. Skinny Fists Like Antennas to Heaven!](http://grooveshark.com/#!/album/a/6999658)
++ **Camel** - Ice / [I Can See Your House From Here](http://grooveshark.com/#!/album/a/636235)
++ **Mikis Theodorakis** - Vegetaciones / [Mikis Theodorakis](http://grooveshark.com/#!/album/a/554839)
++ **Maria Farandouri** - Tora Einai Arga / [I Mnimi Tou Nerou](http://grooveshark.com/#!/album/a/4288095)
++ **Maria Farandouri** - The brave guy is sad (To palikari ehi kaimo) / [Mikis Theodorakis 3CD CD2](http://grooveshark.com/#!/album/a/9081471)
++ **Maria Farandouri** - Phaedra / [01](http://grooveshark.com/#!/album/a/4288083)
++ **John Mayall** - Crying / [USA Union](http://grooveshark.com/#!/album/a/2374604)
++ **Tom Waits** - Alice / [Alice](http://grooveshark.com/#!/album/a/132770)
++ **Tom Waits** - Old Shoes (& Picture Postcards) / [Closing Time](http://grooveshark.com/#!/album/a/118290)
++ **Tom Waits** - Ol' '55 / [Closing Time](http://grooveshark.com/#!/album/a/118290)
++ **Credence Clearwater Revival** - Jambalaya / [The Blue Ridge Rangers](http://grooveshark.com/#!/album/a/8160047)
++ **Mehmet Güreli & Ayşe Tütüncü & Tahsin Ünüvar & İlkin Deniz** - I Love You / [Vapurlar](http://grooveshark.com/#!/album/a/8711020)
++ **Explosions In The Sky & David Wingo** - An Old Peasant Like Me / [Prince Avalanche: An Original Motion Picture Soundtrack](http://grooveshark.com/#!/album/a/9150207)
++ **John Lee Hooker** - Tupelo Blues / [That's My Story / The Folk Blues Of John Lee Hooker](http://grooveshark.com/#!/album/a/4402166)
++ **Tom Waits** - Poor Edward / [Alice](http://grooveshark.com/#!/album/a/132770)
++ **The Allman Brothers Band** - You Don’t Love Me / [At Fillmore East](http://grooveshark.com/#!/album/a/124538)
++ **Leonard Cohen** - Take This Waltz / [I'm Your Man](http://grooveshark.com/#!/album/a/2362823)
++ **Carpenters** - Jambalaya (On the Bayou) / [Gold: Greatest Hits](http://grooveshark.com/#!/album/a/179788)
++ **Tom Waits & Crystal Gayle** - I Beg Your Pardon / [](http://grooveshark.com/#!/album/a/3368014)
++ **Credence Clearwater Revival** - Jambalaya / [The Blue Ridge Rangers](http://grooveshark.com/#!/album/a/8160047)
++ **Ruhi Su&Sumeyra** - Kirmizi Gul Demet Demet / [Kadinlarimizin Yuzleri](http://grooveshark.com/#!/album/a/7911499)
++ **Ruhi Su&Sumeyra** - Daglar Nidem / [Gulun Elinden](http://grooveshark.com/#!/album/a/7911494)
++ **Grup Ekin** - çerkes ezgisi enstrümantal.mp3 / [Kavgayı Seçtim](http://grooveshark.com/#!/album/a/5549338)
++ **Grup Ekin** - ishakça / [Bize Ölüm Yok](http://grooveshark.com/#!/album/a/5550104)
++ **A Hawk and a Hacksaw** - Lajtha Lassú / [Cervantine](http://grooveshark.com/#!/album/a/5955810)
++ **A Hawk and a Hacksaw** - Lajtha Lassú / [Cervantine](http://grooveshark.com/#!/album/a/5955810)
++ **Maria Farandouri** - Tora Einai Arga / [I Mnimi Tou Nerou](http://grooveshark.com/#!/album/a/4288095)
++ **Thin Lizzy** - Whiskey in the Jar / [Thin Lizzy: Greatest Hits](http://grooveshark.com/#!/album/a/4435470)
++ **Camel** - Under The Moon / [Coming of Age](http://grooveshark.com/#!/album/a/1948032)
++ **Brenna MacCrimmon** - Semsiyemin / [Rough Guide to Turkish Cafe](http://grooveshark.com/#!/album/a/8454675)
++ **DeVotchKa** - La Llorona / [Little Miss Sunshine (Original Motion Picture Soundtrack)](http://grooveshark.com/#!/album/a/243373)
++ **DeVotchKa** - La Llorona / [Little Miss Sunshine (Original Motion Picture Soundtrack)](http://grooveshark.com/#!/album/a/243373)
++ **Hazmat Modine** - 02 Child of a blind man / [Cicada](http://grooveshark.com/#!/album/a/6483245)
++ **Hazmat Modine** - It Calls Me (from Bahamat) / [Barbes Records Summer Sampler](http://grooveshark.com/#!/album/a/5009129)
++ **Hazmat Modine** - Everybody Loves You (with Huun-Huur-Tu) / [Bahamut](http://grooveshark.com/#!/album/a/1685107)
++ **Black Ox Orkestar** - ze Flamen, Vayser Fayer / [Ver tanzt?](http://grooveshark.com/#!/album/a/1494861)
++ **Black Ox Orkestar** - Bukharian / [Nisht azoy](http://grooveshark.com/#!/album/a/726673)
++ **Black Ox Orkestar** - Violin Duet / [Nisht azoy](http://grooveshark.com/#!/album/a/726673)
++ **A Hawk and a Hacksaw** - Zozobra / [And The Hun Hangar Ensemble](http://grooveshark.com/#!/album/a/1842990)
++ **Traditional Jewish Music** - Dona Dona / [Traditional Jewish Music](http://grooveshark.com/#!/album/a/5990382)
++ **MEDITERRANEA** - Durme / [soñando alandalus](http://grooveshark.com/#!/album/a/4574213)
++ **Janet-Jak Esim** - Durme Durme Kerido ijiko / [Janet-Jak Esim](http://grooveshark.com/#!/album/a/2050367)
++ **Janet & Jak Esim** - Durme Durme / [Antik Bir Hüzün](http://grooveshark.com/#!/album/a/5990245)
++ **Fikret Kızılok** - Düsler / [Cekirdek Sanat Evi](http://grooveshark.com/#!/album/a/3947256)
++ **Fikret Kizilok-Bülent Ortaçgil** - Düşler / [Biz Sarkilarimizi](http://grooveshark.com/#!/album/a/4689250)
++ **Fikret Kızılok** - Güzel Ne Güzel Olmuşsun / [Zaman Zaman](http://grooveshark.com/#!/album/a/3941117)
++ **Fikret Kızılok** - Yalan / [Yana Yana](http://grooveshark.com/#!/album/a/3658587)
++ **Fikret Kızılok** - Haberin Var Mi / [Fikret Kizilok](http://grooveshark.com/#!/album/a/6948087)
++ **Fikret Kızılok** - Gecenin Üçünde / [Dünden Bu Güne](http://grooveshark.com/#!/album/a/5451916)
++ **Peter Kater/R. Carlos Nakai** - I Will Fight No More / [How the West Was Lost](http://grooveshark.com/#!/album/a/3075151)
++ **Peter Kater/R. Carlos Nakai** - Flight Song / [How the West Was Lost](http://grooveshark.com/#!/album/a/3075151)
++ **Peter Kater/R. Carlos Nakai** - All Souls Waltz / [Honorable Sky](http://grooveshark.com/#!/album/a/4364785)
++ **The Rolling Stones** - You Can't Always Get What You Want / [The Rolling Stone Magazines 500 Greatest Songs Of All Time](http://grooveshark.com/#!/album/a/244906)
++ **Howlin' Wolf** - 219 -  - Spoonful / [500 greatest songs](http://grooveshark.com/#!/album/a/3658176)
++ **Victor Jara** - La Bala / [Memoria del Cantar Popular](http://grooveshark.com/#!/album/a/7882675)
++ **Victor Jara** - El Arado / [Memoria del Cantar Popular](http://grooveshark.com/#!/album/a/7882675)
++ **Victor Jara** - El Arado / [Memoria del Cantar Popular](http://grooveshark.com/#!/album/a/7882675)
++ **Victor Jara** - El Cigarrito / [Memoria del Cantar Popular](http://grooveshark.com/#!/album/a/7882675)
++ **Los Fabulosos Cadillacs** - Siguiendo La Luna / [Akustic-loko de fabulosos amigos](http://grooveshark.com/#!/album/a/4908350)
++ **sleepmakeswaves** - One Day You Will Teach Me to Let Go of My Fears / [In Today Already Walks Tomorrow](http://grooveshark.com/#!/album/a/2820560)
++ **Matching Mole** - O Caroline / [Matching Mole](http://grooveshark.com/#!/album/a/679985)
++ **Matching Mole** - Signed Curtain / [Matching Mole (2005 Rem Japan)](http://grooveshark.com/#!/album/a/9249345)
++ **Bob Dylan** - North Country Blues / [The Times They Are A-Changin'](http://grooveshark.com/#!/album/a/1853861)
++ **Tom Waits** - How's It Gonna End / [Real Gone](http://grooveshark.com/#!/album/a/134735)
++ **A Silver Mt. Zion** - Built Then Burnt [Hurrah! Hurrah!] / [Born Into Trouble as the Sparks Fly Upward](http://grooveshark.com/#!/album/a/362055)
++ **Peter Kater/R. Carlos Nakai** - I Will Fight No More / [How the West Was Lost](http://grooveshark.com/#!/album/a/3075151)
++ **Mercedes Sosa** - Canción para Carito / [30 Años](http://grooveshark.com/#!/album/a/227520)
++ **Cemil Koçgün** - Tembur (Heyder) / [KIZILBAÞ](http://grooveshark.com/#!/album/a/7911111)
++ **Cemil Koçgün** - Gizemli dünyamda / [Aþk-ý Pervaz](http://grooveshark.com/#!/album/a/4711992)
++ **To Destroy A City** - Metaphor / [To Destroy a City](http://grooveshark.com/#!/album/a/6623875)
++ **Fernando Ubiergo** - El Tiempo En Las Bastillas / [Musica Popular Chilena 2](http://grooveshark.com/#!/album/a/4488037)
++ **Los Miserables** - Pisagua / [Rendirse Jamás!](http://grooveshark.com/#!/album/a/3445545)
++ **Franco Simone** - Paisaje / [Sus Grandes Exitos (En Castell](http://grooveshark.com/#!/album/a/5134548)
++ **Fernando Ubiergo** - El Tiempo En Las Bastillas / [Musica Popular Chilena 2](http://grooveshark.com/#!/album/a/4488037)
++ **Los Miserables** - En Todas Partes / [Rendirse Jamás!](http://grooveshark.com/#!/album/a/3445545)
++ **Los Miserables** - De Rusia con amor / [Rendirse Jamás!](http://grooveshark.com/#!/album/a/3445545)
++ **The Dreadnoughts** - West Country Man / [Polka’s Not Dead](http://grooveshark.com/#!/album/a/5314118)
++ **Dengesiz Herifler** - Bir Şise Votka / [Demo](http://grooveshark.com/#!/album/a/9317919)
++ **Heideroosjes** - We're All Fucked Up / [Fast Forward](http://grooveshark.com/#!/album/a/4256282)
++ **Get Dead** - Welcome To Hell / [Bad News](http://grooveshark.com/#!/album/a/9385589)
++ **NOFX** - Reeko / [Punk in Drublic](http://grooveshark.com/#!/album/a/1085259)
++ **Los Miserables** - Decile Que Lo Quiero / [Rendirse Jamás!](http://grooveshark.com/#!/album/a/3445545)
++ **Roberto Parra** - La Negra Ester / [Los Tiempos De La Negra Ester (Jazz Guachaca)](http://grooveshark.com/#!/album/a/5097026)
++ **Cemil Koçgün** - Vardým dostun bahçasýna / [Aþk-ý Pervaz](http://grooveshark.com/#!/album/a/4711992)
++ **Iron Maiden** - Ballad of Martha Kent / [Maiden Voyage](http://grooveshark.com/#!/album/a/5341186)
++ **Camel** - Harbour of Tears / [Coming of Age](http://grooveshark.com/#!/album/a/1948032)
++ **Camel** - Irish Air (reprise) / [Coming of Age](http://grooveshark.com/#!/album/a/1948032)
++ **Camel** - Eyes of Ireland / [Harbour of Tears](http://grooveshark.com/#!/album/a/807842)
++ **Manuel Garcia** - Tanto creo en ti / [Panico](http://grooveshark.com/#!/album/a/1050294)
++ **Mercedes Sosa** - Mon Amour / [Gestos de amor](http://grooveshark.com/#!/album/a/248769)
++ **Esther & Abi Ofarim** - Le vent et la jeunesse / [2 in 3](http://grooveshark.com/#!/album/a/3592617)
++ **Esther & Abi Ofarim** - Donna-Donna / [Ihre Grossen Erfolge](http://grooveshark.com/#!/album/a/5447207)
++ **Esther & Abi Ofarim** - Cinderella-Rockefella / [Ihre Grossen Erfolge](http://grooveshark.com/#!/album/a/5447207)
++ **Esther & Abi Ofarim** - naama / [Album](http://grooveshark.com/#!/album/a/6972302)
++ **Esther & Abi Ofarim** - Le Déserteur (Monsieur le Président) / [Ihre Grossen Erfolge](http://grooveshark.com/#!/album/a/5447207)
++ **Esther & Abi Ofarim** - Frank Mills (Aus Hair) / [Ihre Grossen Erfolge](http://grooveshark.com/#!/album/a/5447207)
++ **Esther & Abi Ofarim** - Morning of My Life / [1968 Die Stars Die Hits Die Facts](http://grooveshark.com/#!/album/a/8420278)
++ **Esther & Abi Ofarim** - Freight Train / [Ihre Grossen Erfolge](http://grooveshark.com/#!/album/a/5447207)
++ **Esther & Abi Ofarim** - One More Dance / [Biky's Goud Van Oud (Deel 12)](http://grooveshark.com/#!/album/a/9636741)
++ **Esther & Abi Ofarim** - Dirty Old Town / [Die Ofarim-Story](http://grooveshark.com/#!/album/a/8037505)
++ **Esther & Abi Ofarim** - Les Trois Cloches / [Ihre Grossen Erfolge](http://grooveshark.com/#!/album/a/5447207)
++ **Esther & Abi Ofarim** - hachnisini tachat knafech / [àñúø òåôøéí](http://grooveshark.com/#!/album/a/6984963)
++ **Esther & Abi Ofarim** - avi avi / [unknown](http://grooveshark.com/#!/album/a/6349007)
++ **Esther & Abi Ofarim** - saeni imcha / [festival hazemer](http://grooveshark.com/#!/album/a/6245278)
++ **Duman** - Gönül İster / [Darmaduman](http://grooveshark.com/#!/album/a/9241495)
++ **Mikail Aslan** - Dilbera Dersime / [Kilite Kou](http://grooveshark.com/#!/album/a/4736841)
++ **Portishead** - Glory Box / [Dummy](http://grooveshark.com/#!/album/a/1084916)
++ **Unbekannter Interpret** - benim adim sirvan - berivan / [Cesaret](http://grooveshark.com/#!/album/a/3699960)
++ **Iced Earth** - Melancholy (Holy Martyr) / [Something Wicked This Way Comes](http://grooveshark.com/#!/album/a/184541)
++ **Iced Earth** - I Died for You / [The Dark Saga](http://grooveshark.com/#!/album/a/299481)
++ **Shahram Nazeri** - Sheyda Shodam / [Rumi (Molaviyeh)-Persian Classical Music](http://grooveshark.com/#!/album/a/7895042)
++ **Rasta Knast** - Dia E Noite, Noite E Dia / [Agrotóxico / Marcas de Revolta](http://grooveshark.com/#!/album/a/3941519)
++ **The Everly Brothers** - All I Have to Do Is Dream / [The Everly Brothers' Best](http://grooveshark.com/#!/album/a/191619)
++ **Kayhan Kalhor** - 3. The laziest summer afternoon, 4. Dancing under the walnut tree, 5. Hear me cry, 6. Pluck a star from the sky, 7. Here I am alone gain / [I Will Not Stand Alone](http://grooveshark.com/#!/album/a/7539370)
++ **Dödelhaie** - Hinterlist / [DAILY-KA-TESSEN](http://grooveshark.com/#!/album/a/5085779)
++ **l.e.s.s.** - ina-i züd'un / [fabrikasyon hatasý](http://grooveshark.com/#!/album/a/4606639)
++ **Kamkars Ensemble** - Sarrowfull And Restless Heart / [Kurdish Music](http://grooveshark.com/#!/album/a/3371343)
++ **Kamkars Ensemble** - Naky Naky / [Shouri Digar (Kordi I)](http://grooveshark.com/#!/album/a/7810681)
++ **Johnny Cash** - Ring Of Fire / [Legends Of Country Music: Classic Hits Of The 50s, 60s & 70s](http://grooveshark.com/#!/album/a/5644435)
++ **Peggy Lee** - Johnny Guitar / [Fallout: New Vegas](http://grooveshark.com/#!/album/a/7416704)
++ **50s** - ShaNaNa - Who Put the Bop in the Bop Bop Bop / [Shared](http://grooveshark.com/#!/album/a/5354662)
++ **Shakila** - nedaye mardome Iran / [mojdeh azadi](http://grooveshark.com/#!/album/a/7804094)
++ **Cat Stevens** - Sad Lisa / [Tea for the Tillerman](http://grooveshark.com/#!/album/a/1202678)
++ **March To The Grave** - Tears and Pains of Billy Baines / [The Band From Town Vol. 2](http://grooveshark.com/#!/album/a/9670846)
++ **March To The Grave** - Tears and Pains of Billy Baines / [The Band From Town Vol. 2](http://grooveshark.com/#!/album/a/9670846)
++ **Shakila** - Morghe Sahar.mp3 / [Collection](http://grooveshark.com/#!/album/a/8284371)
++ **Shakila** - Divaneh-Music.mp3 / [Collection](http://grooveshark.com/#!/album/a/8284371)
++ **Kamkars Ensemble** - Kataneh / [Gol Neshan](http://grooveshark.com/#!/album/a/6225925)
++ **Kamkars Ensemble** - Deli Men / [Shouri Digar (Kordi I)](http://grooveshark.com/#!/album/a/7810681)
++ **Kalmah** - Seventh Swamphony / [Seventh Swamphony](http://grooveshark.com/#!/album/a/8972956)
++ **Traditional Jewish Music** - Dona Dona / [Traditional Jewish Music](http://grooveshark.com/#!/album/a/5990382)
++ **David Grisman With Andy Statman** - Shalom Aleichem (2) / [Songs Of Our Fathers : Traditional Jewish Melodies](http://grooveshark.com/#!/album/a/5904535)
++ **David Grisman With Andy Statman** - For The Sake Of My Brothers And Friends / [Songs Of Our Fathers : Traditional Jewish Melodies](http://grooveshark.com/#!/album/a/5904535)
++ **Yehoshua Rochman** - Nigun Simcha / [Klezmer Violin, The](http://grooveshark.com/#!/album/a/2919329)
++ **David Grisman With Andy Statman** - Kazalski / [Songs Of Our Fathers : Traditional Jewish Melodies](http://grooveshark.com/#!/album/a/5904535)
++ **Janet & Jak Esim** - Yo Era Ninya De Kaza Alta / [Judeo - Espanyol Ezgiler](http://grooveshark.com/#!/album/a/5451881)
++ **VA - Traditional Jewish Music** - Tum - Balalaika / [Geleneksel Yahudi Müzigi](http://grooveshark.com/#!/album/a/6610005)
++ **Bulent Ortacgil & Fikret Kizilok** - Düsler / [Cekirdek Sanat Evi](http://grooveshark.com/#!/album/a/3922545)
++ **Bulent Ortacgil & Fikret Kizilok** - Gunesin Aynasinda / [Pencere Onu Cicegi](http://grooveshark.com/#!/album/a/7078744)
++ **Duman** - Gönül / [Orhan Gencebay ile Bir Ömür (CD 1)](http://grooveshark.com/#!/album/a/8298125)
++ **Léo Ferré** - Psaume 151 / [Amour Anarchie](http://grooveshark.com/#!/album/a/3297243)
++ **Catherine Sauvage** - La piano du pauvre - Catherine Sauvage / [1954](http://grooveshark.com/#!/album/a/8324537)
++ **High Highs** - Horses / [High Highs](http://grooveshark.com/#!/album/a/7327417)
++ **Marianne Faithfull** - Just Call Me Angel in the Morn / [](http://grooveshark.com/#!/album/a/1712386)
++ **Melanie Safka** - Mr. Tamborine Man / [1968 - Born To Be](http://grooveshark.com/#!/album/a/6861821)
++ **Marianne Faithfull** - Ruby Tuesday / [Unknown](http://grooveshark.com/#!/album/a/6320152)
++ **Melanie Safka** - Mr. Tamborine Man / [1968 - Born To Be](http://grooveshark.com/#!/album/a/6861821)
++ **Melanie Safka** - I will survive / [Desconocido](http://grooveshark.com/#!/album/a/8342318)
++ **In Flames** - The Quiet Place / [Soundtrack to Your Escape](http://grooveshark.com/#!/album/a/157612)
++ **googoosh** - Gharib Ashena / [Kavir](http://grooveshark.com/#!/album/a/3961666)
++ **Jozef Van Wissem** - The Stars Fall From the Sky and the Heavens Are Rolled Up like a Scroll / [It Is All That Is Made](http://grooveshark.com/#!/album/a/6713130)
++ **Buffy Sainte-Marie** - Qu'Appelle Valley, Saskatchewan / [Sweet America](http://grooveshark.com/#!/album/a/7445842)
++ **Bokka** - Town Of Strangers / [Bokka](http://grooveshark.com/#!/album/a/9374342)
++ **Ruhi Su** - Sisli Meydaninda Uc Kiz / [Sabahin Sahibi Var](http://grooveshark.com/#!/album/a/3959155)
++ **Grup Yorum** - Sisli Meydaninda / [Marslarimiz](http://grooveshark.com/#!/album/a/3699094)
++ **Home Grown** - Barbie Girl / [EP Phone Home](http://grooveshark.com/#!/album/a/3516569)
++ **Bunu Sen İstedin** - Ah Sevgilim / [Bunu Sen İstedin](http://grooveshark.com/#!/album/a/9810021)
++ **Bunu Sen İstedin** - Büyük Adam Olucam Ben / [Bunu Sen İstedin](http://grooveshark.com/#!/album/a/9810021)
++ **Home Grown** - Surfer Girl / [Act Your Age](http://grooveshark.com/#!/album/a/244730)
++ **Allister** - Scratch / [Last Stop Suburbia](http://grooveshark.com/#!/album/a/285965)
++ **Armand Amar & Sandrine Piau** - Cum Dederit / [Home (Original Motion Picture Soundtrack)](http://grooveshark.com/#!/album/a/6340474)
++ **Armand Amar** - Kalou / [Le Concert](http://grooveshark.com/#!/album/a/4170757)
++ **Armand Amar** - Home, Pt. II / [Home (Original Motion Picture Soundtrack)](http://grooveshark.com/#!/album/a/6340474)
++ **Armand Amar** - L' Oiseau - Sébastien Et Esther / [Bande Originale Du Film Belle](http://grooveshark.com/#!/album/a/9453850)
++ **Armand Amar** - Ai Routchiok / [Le Concert](http://grooveshark.com/#!/album/a/4170757)
++ **Armand Amar** - Home, Pt. IV / [Home (Original Motion Picture Soundtrack)](http://grooveshark.com/#!/album/a/6340474)
++ **Armand Amar** - Poem of the Atoms / [Bab' Azîz](http://grooveshark.com/#!/album/a/5910016)
++ **Levon Minassian & Armand Amar** - Amen hayr sourp / [Songs From a World Apart](http://grooveshark.com/#!/album/a/2337664)
++ **Levon Minassian & Armand Amar** - Tchinares / [Songs From a World Apart](http://grooveshark.com/#!/album/a/2337664)
++ **Levon Minassian & Armand Amar** - Ar intch lav er / [Songs From a World Apart](http://grooveshark.com/#!/album/a/2337664)
++ **Two Gallants** - Las Cruces Jail / [Las Cruces Jail](http://grooveshark.com/#!/album/a/5735384)
++ **Two Gallants** - Despite What You've Been Told / [Two Gallants](http://grooveshark.com/#!/album/a/363791)
++ **Levon Minassian & Armand Amar** - Nare nare / [Songs From a World Apart](http://grooveshark.com/#!/album/a/2337664)
++ **Levon Minassian & Armand Amar** - Im ayrogh veuchtitz / [Songs From a World Apart](http://grooveshark.com/#!/album/a/2337664)
++ **Armand Amar** - Concert concert / [Le Concert](http://grooveshark.com/#!/album/a/4170757)
++ **Armand Amar** - Kalinka / [Le Concert](http://grooveshark.com/#!/album/a/4170757)
++ **Armand Amar** - Tziganie / [Le Concert](http://grooveshark.com/#!/album/a/4170757)
++ **Armand Amar** - Poem of the Atoms / [Bab' Azîz](http://grooveshark.com/#!/album/a/5910016)
++ **Jocelyn Pook** - Honey Bee Story / [](http://grooveshark.com/#!/album/a/9239878)
++ **Jocelyn Pook** - Libera Me / [Habitación en Roma](http://grooveshark.com/#!/album/a/5305669)
++ **Lake of Tears** - Hold on Tight / [Forever Autumn](http://grooveshark.com/#!/album/a/3581228)
++ **Armand Amar** - Chaosmos / [Terre Vue Du Ciel](http://grooveshark.com/#!/album/a/5801585)
++ **Armand Amar** - Dream of the Palace / [Bab' Azîz](http://grooveshark.com/#!/album/a/5910016)
++ **In Flames** - Rusted Nail / [Siren Charms](http://grooveshark.com/#!/album/a/9744535)
++ **In Flames** - All for Me / [Sounds of a Playground Fading](http://grooveshark.com/#!/album/a/6172435)
++ **Armand Amar** - Ouverture / [Bande Originale Du Film Belle](http://grooveshark.com/#!/album/a/9453850)
++ **Sigur Ros** - Brennisteinn / [Kveikur](http://grooveshark.com/#!/album/a/9011125)
++ **Sigur Ros** - Hrafntinna / [Kveikur](http://grooveshark.com/#!/album/a/9011125)
++ **Sigur Ros** - Stormur / [Kveikur](http://grooveshark.com/#!/album/a/9011125)
++ **Armand Amar** - Part XX / [Marco Polo](http://grooveshark.com/#!/album/a/4346234)
++ **Hossein Alizadeh** - Vernal Reunion / [Half Moon /Nimeye Mah/](http://grooveshark.com/#!/album/a/6183320)
++ **Manuel Garcia** - Hablar de ti / [Panico](http://grooveshark.com/#!/album/a/1050294)
++ **Djivan Gasparyan & Hossein Alizadeh** - Birds / [Endless Vision](http://grooveshark.com/#!/album/a/9852024)
++ **Djivan Gasparyan & Hossein Alizadeh** - Sari Galin / [Endless Vision](http://grooveshark.com/#!/album/a/9852024)
++ **Ahmad Pejman** - Riverbank / [shadows of the sun](http://grooveshark.com/#!/album/a/7843520)
++ **Mohammad Reza Shajarian** - Rhapsody Baraaye Tar Va Orchestre - Mahoor (Instrumental) / [An Empty Chalice](http://grooveshark.com/#!/album/a/6674225)
++ **Shahram Nazeri** - Sheyda Shodam / [Rumi (Molaviyeh)-Persian Classical Music](http://grooveshark.com/#!/album/a/7895042)
++ **Marianne Faithfull** - Dreamin' My Dreams / [Faithless](http://grooveshark.com/#!/album/a/4410552)
++ **Black Sabbath** - Odin's Court / [Tyr](http://grooveshark.com/#!/album/a/282225)
++ **Tom Waits** - Flower's Grave / [Alice](http://grooveshark.com/#!/album/a/132770)
++ **Ahmad Pejman** - Inpression / [shadows of the sun](http://grooveshark.com/#!/album/a/7843520)
++ **Kara Güneş** - Sonsuzun uykusuu / [Evreni Dinle](http://grooveshark.com/#!/album/a/4256526)
++ **David Lynch** - These Are My Friends / [Crazy Clown Time](http://grooveshark.com/#!/album/a/7148360)
++ **Black Sabbath** - Born Again / [Born Again](http://grooveshark.com/#!/album/a/115784)
+
