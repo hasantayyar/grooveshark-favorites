@@ -1,5 +1,8 @@
-This is a huge link of my favorite songs on grooveshark. This list is used for my own needs. But you may discover some new songs.
-There is too many types of genres in this list, so I didn't group them by genres. 
+This is a huge link of my favorite songs on grooveshark. This list is used for my own needs.
+But you may discover some new songs.
+There is too many types of genres in this list, so I didnt group them by genres.
+
+
 
 + **Cat Stevens** - Foreigner Suite (excerpt) / [The Very Best of Cat Stevens](http://grooveshark.com/#!/album/a/256011)
 + **Tom Waits** - I Hope That I Don't Fall in Love With You / [Closing Time](http://grooveshark.com/#!/album/a/118290)
@@ -148,7 +151,8 @@ There is too many types of genres in this list, so I didn't group them by genres
 + **Nancy Sinatra** - Bang Bang (My Baby Shot Me Down) / [Kill Bill Vol 1](http://grooveshark.com/#!/album/a/238260)
 + **Led Zeppelin** - Stairway to Heaven / [[Led Zeppelin IV]](http://grooveshark.com/#!/album/a/124602)
 + **Urge Overkill** - Girl, You'll Be a Woman Soon / [Pulp Fiction (Soundtrack)](http://grooveshark.com/#!/album/a/4248353)
-+ **Kazım Koyuncu & Grup Dinmeyen** - 003- Hatırlayışlar / [SİSLER BULVARI](http://grooveshark.com/#!/album/a/8451126)
++ **Kazım Koyuncu & Grup Dinmeyen** - 003- 
+Hatırlayışlar / [SİSLER BULVARI](http://grooveshark.com/#!/album/a/8451126)
 + **Nina Simone** - Sinnerman / [Thomas Crown Affair](http://grooveshark.com/#!/album/a/298558)
 + **Nick Cave & The Bad Seeds** - Where The Wild Roses Grow / [B-Sides & Rarities - Volume II](http://grooveshark.com/#!/album/a/780136)
 + **Various Artists** - 18 With A Bullet / [Lock Stock & Two Smoking Barrels](http://grooveshark.com/#!/album/a/243396)
@@ -657,4 +661,6 @@ There is too many types of genres in this list, so I didn't group them by genres
 + **Kara Güneş** - Sonsuzun uykusuu / [Evreni Dinle](http://grooveshark.com/#!/album/a/4256526)
 + **David Lynch** - These Are My Friends / [Crazy Clown Time](http://grooveshark.com/#!/album/a/7148360)
 + **Black Sabbath** - Born Again / [Born Again](http://grooveshark.com/#!/album/a/115784)
++ **Metin & Kemal Kahraman** - Dersim Dedikleri / [Ogul](http://grooveshark.com/#!/album/a/8623445)
+
 
