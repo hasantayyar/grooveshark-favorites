@@ -662,5 +662,5 @@ Hatırlayışlar / [SİSLER BULVARI](http://grooveshark.com/#!/album/a/8451126)
 + **David Lynch** - These Are My Friends / [Crazy Clown Time](http://grooveshark.com/#!/album/a/7148360)
 + **Black Sabbath** - Born Again / [Born Again](http://grooveshark.com/#!/album/a/115784)
 + **Metin & Kemal Kahraman** - Dersim Dedikleri / [Ogul](http://grooveshark.com/#!/album/a/8623445)
-
++ **Dale Cooper Quartet & the Dictaphones** - Ta grenier / [Parole de Navarre](http://grooveshark.com/#!/album/a/5217050)
 
